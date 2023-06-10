@@ -1,6 +1,8 @@
 # Controlar ChatGPT
 
-Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
+<div style="width:100%; float:left; background-color:#b1b7b1; color:white; padding:20px; margin: 0; margin-bottom: 20px;">Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.</div>
+
+*As respostas nesta página foram geradas por [ChatGPT 4 não conectado à Internet](https://chat.openai.com/?model=gpt-4) (conta privada **ChatGPT Plus**).*
 
 ## Tamanho de resposta
 
