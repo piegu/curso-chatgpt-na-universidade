@@ -6,7 +6,7 @@
 
 ## Resumo 
 
-(...)
+- [Contexto geral (da IA até os assistentes IA)](captitulo1/README.md)
 
 ## Licensa
 
