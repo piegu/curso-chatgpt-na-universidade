@@ -60,3 +60,17 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right">A vida de uma formiga na floresta Amazônica é como um contínuo e agitado escritório ao ar livre, onde o "home office" envolve carregar folhas cem vezes o seu peso e o café da manhã é um buffet de fungos!</div></div>
+
+## Referência(s) da resposta
+
+<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
+<div style="width:95%; float:right">Você é um sociólogo. Como é a vida de uma formiga na floresta amazônica? Referencie sua resposta.</div>
+</div>
+
+<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
+<div style="width:95%; float:right">A vida de uma formiga na floresta amazônica é caracterizada pela organização social intrincada e hierárquica, adaptabilidade ambiental e cooperação coletiva para a sobrevivência da colônia. Elas representam exemplos perfeitos de sociedades eusociais, onde diferentes indivíduos dentro da mesma colônia têm diferentes funções ou castas - como a rainha, soldados e operárias - que são fundamentais para o funcionamento eficiente da colônia (Hölldobler & Wilson, 1990). A interação com o ambiente da floresta também é crucial, pois as formigas da Amazônia desempenham papéis ecológicos significativos, desde a predação até a decomposição da matéria orgânica e a dispersão de sementes (Farji-Brener, 2001).<br><br>
+Referências:<br>
+Hölldobler B. & Wilson E. O. (1990). The Ants. Cambridge, MA: Belknap Press of Harvard University Press.<br>
+Farji-Brener, A. G. (2001). Why are leaf-cutting ants more common in early secondary forests than in old-growth tropical forests? An evaluation of the palatable forage hypothesis. Oikos, 92(1), 169-177.</div></div>
