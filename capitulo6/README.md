@@ -26,7 +26,7 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 <div style="width:95%; float:right">A vida é uma série de interações sociais e experiências culturais que moldam a compreensão do indivíduo sobre si mesmo e o mundo ao seu redor.</div>
 </div>
 
-## Especifique sua pergunta
+## Pergunta específica
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
@@ -38,7 +38,7 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 <div style="width:95%; float:right">A vida de uma formiga na floresta Amazônica é uma representação microscópica das dinâmicas sociais complexas que operam dentro de uma comunidade interdependente em resposta ao seu ambiente.</div>
 </div>
 
-## Defina o estilo de resposta
+## Formato de resposta
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
@@ -53,7 +53,7 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 3. Adaptação ao ambiente: As formigas demonstram uma extraordinária capacidade de adaptação ao ambiente da floresta, enfrentando desafios e utilizando recursos de maneira eficiente.
 </div></div>
 
-## Que tom de reposta
+## Tom de reposta
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
