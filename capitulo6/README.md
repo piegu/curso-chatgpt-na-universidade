@@ -53,7 +53,7 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 3. Adaptação ao ambiente: As formigas demonstram uma extraordinária capacidade de adaptação ao ambiente da floresta, enfrentando desafios e utilizando recursos de maneira eficiente.
 </div></div>
 
-## Tom de reposta
+## Tom de resposta
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
