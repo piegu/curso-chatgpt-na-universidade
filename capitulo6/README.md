@@ -47,10 +47,7 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
-<div style="width:95%; float:right">
-1. Socialização e hierarquia: A vida de uma formiga na floresta Amazônica é marcada por estruturas sociais complexas, com papéis definidos e uma hierarquia clara dentro da colônia.
-2. Interdependência e cooperação: As formigas dependem umas das outras para a sobrevivência da colônia, exemplificando princípios de cooperação e trabalho em equipe.
-3. Adaptação ao ambiente: As formigas demonstram uma extraordinária capacidade de adaptação ao ambiente da floresta, enfrentando desafios e utilizando recursos de maneira eficiente.
+<div style="width:95%; float:right"><ol><li>Socialização e hierarquia: A vida de uma formiga na floresta Amazônica é marcada por estruturas sociais complexas, com papéis definidos e uma hierarquia clara dentro da colônia.</li><li>Interdependência e cooperação: As formigas dependem umas das outras para a sobrevivência da colônia, exemplificando princípios de cooperação e trabalho em equipe.</li><li>Adaptação ao ambiente: As formigas demonstram uma extraordinária capacidade de adaptação ao ambiente da floresta, enfrentando desafios e utilizando recursos de maneira eficiente.</li></ol>
 </div></div>
 
 ## Tom de resposta
