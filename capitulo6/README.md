@@ -74,3 +74,17 @@ Criatividade vem de limites: faça o mesmo quando usar o ChatGPT.
 Referências:<br>
 Hölldobler B. & Wilson E. O. (1990). The Ants. Cambridge, MA: Belknap Press of Harvard University Press.<br>
 Farji-Brener, A. G. (2001). Why are leaf-cutting ants more common in early secondary forests than in old-growth tropical forests? An evaluation of the palatable forage hypothesis. Oikos, 92(1), 169-177.</div></div>
+
+## Tradução
+
+<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
+<div style="width:95%; float:right">Você é um sociólogo. Como é a vida de uma formiga na floresta amazônica? Escreva sua resposta em uma frase e dê a referência dela. Em seguida, traduza sua resposta para inglês e francês.</div>
+</div>
+
+<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
+<div style="width:95%; float:right">A vida de uma formiga na floresta amazônica, marcada pela organização social complexa e interações ambientais, exemplifica a existência em uma sociedade eusocial e interdependente (Hölldobler & Wilson, 1990).<br><br>
+In English: The life of an ant in the Amazon forest, marked by complex social organization and environmental interactions, exemplifies existence in a eusocial and interdependent society (Hölldobler & Wilson, 1990).<br><br>
+En Français: La vie d'une fourmi dans la forêt amazonienne, marquée par une organisation sociale complexe et des interactions environnementales, illustre l'existence dans une société eusociale et interdépendante (Hölldobler & Wilson, 1990).<br><br>
+Referência: Hölldobler B. & Wilson E. O. (1990). The Ants. Cambridge, MA: Belknap Press of Harvard University Press.</div></div>
