@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> ScholarAI
 
-ScholarAI | 
+ScholarAI | [Penrose Analyst](penrose.md) | 
 
 ## ScholarAI
 
