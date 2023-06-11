@@ -29,7 +29,7 @@ De forma crítica, o ScholarAI ajuda a limitar as alucinações que podem ocorre
 
 ### Com o plugin ScholarAI
 
-### Pequisa 1
+#### Pequisa 1
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left""><img src="../imagens/PI.png"></div>
@@ -41,7 +41,7 @@ De forma crítica, o ScholarAI ajuda a limitar as alucinações que podem ocorre
 <div style="width:95%; float:right"><p>Aqui estão cinco artigos acadêmicos recentes no campo da sociologia:</p><ol><li><p><a href="https://doi.org/10.2478/sjs-2023-0002" target="_new">Anchoring International Organizations in Organizational Sociology</a> por Fanny Badache e Leah R. Kimber. Publicado em 1º de março de 2023. <a href="https://sciendo.com/pdf/10.2478/sjs-2023-0002" target="_new">PDF</a></p></li><li><p><a href="https://doi.org/10.1016/j.chiabu.2020.104803" target="_new">Using a sociological conceptualization of stigma to explore the social processes of stigma and discrimination of children in street situations in western Kenya</a> por Allison Gayapersad, Lonnie Embleton, Pooja Shah, Rebecca Kiptui, David Ayuku, Paula Braitstein. Publicado em 1º de maio de 2023.</p></li><li><p><a href="https://doi.org/10.20525/ijrbs.v12i1.2274" target="_new">A sociological perspective on making South African tourism monumental through folklore</a> por Mlamli Diko. Publicado em 13 de fevereiro de 2023. <a href="https://www.ssbfnet.com/ojs/index.php/ijrbs/article/download/2274/1664" target="_new">PDF</a></p></li><li><p><a href="https://doi.org/10.3389/fpsyg.2023.1076768" target="_new">Psychological and sociological determinants of entrepreneurial intentions and behaviors</a> por Boštjan Antončič e Jasna Auer Antoncic. Publicado em 2 de fevereiro de 2023. <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1076768/pdf" target="_new">PDF</a></p></li></ol><p>Você gostaria de ler o texto completo de algum desses artigos ou salvar algum deles em seu gerenciador de referências Zotero?</p></div>
 </div>
 
-### Pequisa 2
+#### Pequisa 2
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left""><img src="../imagens/PI.png"></div>
