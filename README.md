@@ -20,7 +20,8 @@ O que é ChatGPT
 Em 6 meses, ChatGPT està jà uma ferramenta de massa
 https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy 
 - [Controlar ChatGPT](capitulo6/)
-- [ChatGPT em ação](capitulo7/)
+- [Plugins ChatGPT]((capitulo7/))
+- [ChatGPT em ação](capitulo8/)
 Do ponto de vista do… funcionário administrativo
 Do ponto de vista do… aluno iniciante
 Do ponto de vista do… estudante
