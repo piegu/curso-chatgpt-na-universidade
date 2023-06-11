@@ -8,4 +8,5 @@
 
 ## Lista de plugins
 
-- [ScholarAI](scholar.md)
+- [ScholarAI](scholarai.md)
+- [Penrose Analyst](penrose.md)
