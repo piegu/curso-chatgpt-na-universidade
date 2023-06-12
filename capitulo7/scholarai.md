@@ -10,6 +10,10 @@ Ao usar este plugin, os usuários obtêm rapidamente a capacidade de consultar d
 
 De forma crítica, o ScholarAI ajuda a limitar as alucinações que podem ocorrer durante o uso normal do ChatGPT e fornece hiperlinks diretamente para o material de origem para garantir que você receba os dados mais precisos e confiáveis da esfera acadêmica.
 
+[+] [Mais informações sobre o plug-in "ScholarAI"](https://roihacks.com/scholarai-chatgpt-plugin/)
+
+## Exemplos
+
 ### Sem o plugin ScholarAI
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
