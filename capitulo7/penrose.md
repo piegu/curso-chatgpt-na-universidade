@@ -8,6 +8,10 @@ Pesquise semanticamente notícias e artigos de pesquisa. Ajude o usuário a enco
 
 Você também pode **incorporar e resumir os links do Arxiv.org**. Importante: todos os links do Arxiv.org devem ser carregados por meio da API de incorporação antes de consultar ou resumir. Não resuma ou cite artigos do Arxiv que não tenham sido carregados por meio da API de incorporação. Ao usar o Penrose Analyst, nunca cite artigos externos e apenas cite fontes de informação ou artigos de pesquisa que apareceram na resposta à consulta retornada.
 
+[+] [Mais informações sobre o plug-in "Penrose Analyst"](https://roihacks.com/penrose-analyst-chatgpt-plugin/)
+
+## Exemplo
+
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Procure 3 artigos recentes no campo da sociologia do meio ambiente. Liste-os por localização e em ordem cronológica. Dê resumos.</div>
