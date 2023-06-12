@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> Penrose Analyst
 
-[ScholarAI](scholar.md) | Penrose Analyst | [Show Me](showme.md)
+[ScholarAI](scholarai.md) | Penrose Analyst | [Show Me](showme.md)
 
 ## Penrose Analyst
 
