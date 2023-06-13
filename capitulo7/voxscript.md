@@ -12,7 +12,7 @@ Por exemplo, se um usuário deseja pesquisar um tópico específico no YouTube, 
 
 ## Exemplo 1
 
-Link para o vídeo: [Y a-t-il un danger sociologique ? - Capsule #7](https://www.youtube.com/watch?v=7adBSFWpa-k)
+Link para o vídeo (francês): [Y a-t-il un danger sociologique ? - Capsule #7](https://www.youtube.com/watch?v=7adBSFWpa-k)
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
