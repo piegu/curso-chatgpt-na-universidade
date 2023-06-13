@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> Ask Your PDF
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | AskYourPDF | [WebPilot](webpilot.md)
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | AskYourPDF | [WebPilot](webpilot.md) | [World News](worldnews.md)
 
 ## Ask your PDF
 
