@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> Show Me
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | Show Me
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | Show Me | [AskYourPDF](askyourpdf.md)
 
 ## Show Me
 
