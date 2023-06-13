@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> WebPilot
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | WebPilot | [World News](worldnews.md)
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | WebPilot | [World News](worldnews.md) | [VoxScript](voxscript.md)
 
 ## WebPilot
 
