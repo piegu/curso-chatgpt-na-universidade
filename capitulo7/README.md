@@ -11,3 +11,4 @@
 - [ScholarAI](scholarai.md)
 - [Penrose Analyst](penrose.md)
 - [Show Me](showme.md)
+- [AskYourPDF](askyourpdf.md)
