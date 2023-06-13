@@ -1,8 +1,8 @@
-# Plugins ChatGPT >> Word News
+# Plugins ChatGPT >> World News
 
 [ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | [WebPilot](webpilot.md) | World News | [VoxScript](voxscript.md)
 
-## Word News
+## World News
 
 O plugin ChatGPT "World News" é um aplicativo que pode ser integrado ao modelo de linguagem GPT para permitir a interação com APIs de notícias externas. Este plugin permite que os usuários solicitem as últimas notícias de várias fontes ao redor do mundo e obtenham um resumo das manchetes das notícias.
 
