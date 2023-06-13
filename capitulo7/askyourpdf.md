@@ -23,7 +23,7 @@ Link para o PDF: [Programa de Formação da CNTE: Introdução à Sociologia](ht
 
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
-<div style="width:95%; float:right"><p>O título do PDF é "Programa de Formação da CNTE: Introdução à Sociologia". Este é o primeiro módulo de um novo enfoque para o trabalho sindical, escrito por Eudson de Castro Ferreira. Está na sua 3ª edição e 1ª reimpressão, publicado pela CNTE/ESFORCE em 2014.>/p><p>Se você tiver mais perguntas sobre o conteúdo deste PDF, sinta-se à vontade para perguntar. Além disso, você pode excluir seu documento a qualquer momento visitando este <a href="https://askyourpdf.com/delete/3ffe3906-4b79-4928-8f30-252bb2f9a70e">link</a>.</p></div>
+<div style="width:95%; float:right"><p>O título do PDF é "Programa de Formação da CNTE: Introdução à Sociologia". Este é o primeiro módulo de um novo enfoque para o trabalho sindical, escrito por Eudson de Castro Ferreira. Está na sua 3ª edição e 1ª reimpressão, publicado pela CNTE/ESFORCE em 2014.</p><p>Se você tiver mais perguntas sobre o conteúdo deste PDF, sinta-se à vontade para perguntar. Além disso, você pode excluir seu documento a qualquer momento visitando este <a href="https://askyourpdf.com/delete/3ffe3906-4b79-4928-8f30-252bb2f9a70e">link</a>.</p></div>
 </div>
 
 ### Autor
