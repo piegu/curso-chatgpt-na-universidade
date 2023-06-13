@@ -12,3 +12,4 @@
 - [Penrose Analyst](penrose.md)
 - [Show Me](showme.md)
 - [AskYourPDF](askyourpdf.md)
+- [WebPilot](webpilot.md)
