@@ -1,10 +1,10 @@
 # Plugins ChatGPT >> Ask Your PDF
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | AskYourPDF
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [Show Me](showme.md) | AskYourPDF | [WebPilot](webpilot.md)
 
 ## Ask your PDF
 
-O plug-in ChatGPT AskYourPDF é um aplicativo que permite fazer **upload para ChatGPT de arquivos PDF e outros documentos** (TXT, PPTX, PPT, EPUB, CSV e RTF). Além disso, traz **conversa dinâmica que permite uma interação com o conteúdo do documento** por meio de Inteligência Artificial.
+O plugin ChatGPT AskYourPDF é um aplicativo que permite fazer **upload para ChatGPT de arquivos PDF e outros documentos** (TXT, PPTX, PPT, EPUB, CSV e RTF). Além disso, traz **conversa dinâmica que permite uma interação com o conteúdo do documento** por meio de Inteligência Artificial.
 
 Portanto, esse é um excelente plugin para **extrair informações de um documento e transformá-las** (para resumo, pontos-chave, nomes de autores, tradução, etc.).
 
