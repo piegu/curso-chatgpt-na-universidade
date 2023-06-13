@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> Penrose Analyst
 
-[ScholarAI](scholarai.md) | Penrose Analyst | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | [WebPilot](webpilot.md)
+[ScholarAI](scholarai.md) | Penrose Analyst | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | [WebPilot](webpilot.md) | [World News](worldnews.md)
 
 ## Penrose Analyst
 
