@@ -1,4 +1,4 @@
-# ChatGPT para Estudante >> AI Tutor
+# ChatGPT para Estudante >> Tutor IA
 
 Fonte: [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)
 
