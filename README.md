@@ -1,6 +1,6 @@
 # Curso | ChatGPT na universidade
 
-<img src="imagens/ChatGPT_curso_prompting.png" alt="Imagem criada por ferramentas Text-2-Image" title="Imagem criada por ferramentas Text-2-Image">
+<img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)">
 
 (...)
 
