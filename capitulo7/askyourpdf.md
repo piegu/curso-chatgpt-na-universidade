@@ -8,7 +8,7 @@ O plugin ChatGPT AskYourPDF é um aplicativo que permite fazer **upload para Cha
 
 Portanto, esse é um excelente plugin para **extrair informações de um documento e transformá-las** (para resumo, pontos-chave, nomes de autores, tradução, etc.).
 
-[+] [Mais informações sobre o plugin "Ask Your PDF"](https://geekflare.com/how-to-upload-pdfs-on-chatgpt/)
+[+] [Mais informações sobre o plugin](https://roihacks.com/AskYourPDF-chatgpt-plugin/) | [Alguns casos de uso do plugin](https://roihacks.com/AskYourPDF-chatgpt-plugin/What_the_AskYourPDF_ChatGPT_Plugin_can_do_and_how_can_you_use_it)
 
 ## Exemplo 1
 
