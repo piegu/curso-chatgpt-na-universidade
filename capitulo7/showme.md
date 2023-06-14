@@ -10,7 +10,7 @@ Este plugin foi projetado para aprimorar a funcionalidade da plataforma ChatGPT,
 
 Com o plugin "Show Me", os usuários podem **criar uma ampla variedade de diagramas, incluindo fluxogramas, mapas mentais, organogramas e muito mais**.
 
-[+] [Mais informações sobre o plugin "Show Me"](https://roihacks.com/show-me-chatgpt-plugin/)
+[+] [Mais informações sobre o plugin](https://roihacks.com/show-me-chatgpt-plugin/) | [Alguns casos de uso do plugin](https://roihacks.com/show-me-chatgpt-plugin/#What_Can_the_Show_Me_ChatGPT_Plugin_do_and_how_can_you_use_it)
 
 ## Exemplo
 
