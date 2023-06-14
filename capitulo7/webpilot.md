@@ -6,8 +6,7 @@
 
 O plugin ChatGPT chamado WebPilot é um aplicativo que fornece a capacidade de navegar em páginas da Web, extrair seu conteúdo e gerar artigos de um ou mais URLs.
 
-[+] [Mais informações sobre o plugin "WebPilot"](https://roihacks.com/webpilot-chatgpt-plugin/)
-[+] [Alguns casos de uso do plugin "Webpilot"](https://roihacks.com/webpilot-chatgpt-plugin/#Some_use_cases_of_the_Webpilot_ChatGPT_plugin)
+[+] [Mais informações sobre o plugin](https://roihacks.com/webpilot-chatgpt-plugin/) | [Alguns casos de uso do plugin](https://roihacks.com/webpilot-chatgpt-plugin/#Some_use_cases_of_the_Webpilot_ChatGPT_plugin)
 
 ## Exemplo
 
