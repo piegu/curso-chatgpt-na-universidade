@@ -6,7 +6,7 @@
 
 ## Resumo 
 
-- [IA em nosso cotidiano](capitulo1/)
+- [ChatGPT, o novo rosto da IA](capitulo1/)
 - [IA](capitulo2/)
 Apresentaçao da IA por um grafico (o que é, a evoluçao no tempo)
 - [IA Generativa](capitulo3/)
