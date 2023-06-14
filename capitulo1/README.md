@@ -1,4 +1,4 @@
-# IA em nosso cotidiano
+# ChatGPT, o novo rosto da IA
 
 
 da IA até os assistentes IA
