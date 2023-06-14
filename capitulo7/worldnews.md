@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> World News
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | World News | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | [WebPilot](webpilot.md) | [VoxScript](voxscript.md)
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | World News | [Show Me](showme.md) | [AskYourPDF](askyourpdf.md) | [ChatOCR](chatocr.md) | [WebPilot](webpilot.md) | [VoxScript](voxscript.md)
 
 ## World News
 
