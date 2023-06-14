@@ -1,6 +1,6 @@
 # Plugins ChatGPT >> Show Me
 
-[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [World News](worldnews.md) | Show Me | [AskYourPDF](askyourpdf.md) | [WebPilot](webpilot.md) | [VoxScript](voxscript.md)
+[ScholarAI](scholarai.md) | [Penrose Analyst](penrose.md) | [World News](worldnews.md) | Show Me | [AskYourPDF](askyourpdf.md) | [ChatOCR](chatocr.md) | [WebPilot](webpilot.md) | [VoxScript](voxscript.md)
 
 ## Show Me
 
