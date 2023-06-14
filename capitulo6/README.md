@@ -11,7 +11,7 @@
 <div style="width:95%; float:right">O que é a vida? Escreva sua resposta em uma frase.</div>
 </div>
 
-<div style="width:100%; float:left; background-color:#f6ac4c; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right">A vida é um complexo processo biológico caracterizado pela capacidade de crescer, se adaptar, responder ao ambiente, se reproduzir e evoluir ao longo do tempo.</div>
 </div>
@@ -23,7 +23,7 @@
 <div style="width:95%; float:right">Você é um sociólogo. O que é a vida? Escreva sua resposta em uma frase.</div>
 </div>
 
-<div style="width:100%; float:left; background-color:#f6ac4c; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right">A vida é uma série de interações sociais e experiências culturais que moldam a compreensão do indivíduo sobre si mesmo e o mundo ao seu redor.</div>
 </div>
