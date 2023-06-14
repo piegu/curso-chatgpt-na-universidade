@@ -23,7 +23,7 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
 - [Plugins ChatGPT](capitulo7/)
 - ChatGPT em ação
   - [estudante](capitulo8/)
-    - [AI Tutor](capitulo8_aitutor.md)
+    - [AI Tutor](capitulo8/aitutor.md)
 
 
 Do ponto de vista do… funcionário administrativo
