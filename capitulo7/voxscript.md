@@ -8,7 +8,7 @@ O plugin ChatGPT VoxScript permite que os usuários executem várias tarefas, co
 
 Por exemplo, se um usuário deseja pesquisar um tópico específico no YouTube, ele pode usar o plugin ChatGPT VoxScript para pesquisar as transcrições de vídeo relacionadas a esse tópico. Isso pode ser útil para encontrar informações específicas em um vídeo ou em uma série de vídeos.
 
-[+] [Mais informações sobre o plugin "VoxScript"](https://roihacks.com/voxscript-chatgpt-plugin/)
+[+] [Mais informações sobre o plugin "VoxScript"](https://roihacks.com/voxscript-chatgpt-plugin/) | [Alguns casos de uso do plugin "Webpilot"](https://roihacks.com/voxscript-chatgpt-plugin/#Some_use_cases_of_the_Webpilot_ChatGPT_plugin)
 
 ## Exemplo
 
