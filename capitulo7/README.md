@@ -12,6 +12,7 @@
 - [Penrose Analyst](penrose.md)
 - [Show Me](showme.md)
 - [AskYourPDF](askyourpdf.md)
+- [ChatOCR](chatocr.md)
 - [WebPilot](webpilot.md)
 - [World News](worldnews.md)
 - [VoxScript](voxscript.md)
