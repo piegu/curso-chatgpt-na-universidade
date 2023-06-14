@@ -2,7 +2,7 @@
 
 Fonte: [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)
 
-<img src="../imagens/aitutor_prompt.png" alt="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" title="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)">
+<img src="../imagens/aitutor_prompt.png" alt="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" title="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" width='70%' height='70%'>
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
