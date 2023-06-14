@@ -6,7 +6,7 @@
 
 O plugin ChatGPT "World News" é um aplicativo que pode ser integrado ao modelo de linguagem GPT para permitir a interação com APIs de notícias externas. Este plugin permite que os usuários solicitem as últimas notícias de várias fontes ao redor do mundo e obtenham um resumo das manchetes das notícias.
 
-[+] [Mais informações sobre o plugin "Word News"](https://roihacks.com/world-news-chatgpt-plugin/)
+[+] [Mais informações sobre o plugin](https://roihacks.com/world-news-chatgpt-plugin/) | [Alguns casos de uso do plugin](https://roihacks.com/world-news-chatgpt-plugin/#What_the_World_News_ChatGPT_Plugin_can_do_and_how_can_you_use_it)
 
 ## Exemplo 
 
