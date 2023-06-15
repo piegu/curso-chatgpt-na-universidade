@@ -1,5 +1,7 @@
 # ChatGPT para Estudante >> Mentor IA
 
+[Tutor IA](tutoria.md) | [Coach IA](coachia.md) | Mentor IA | [Teammate IA](teammateia.md) | [Student IA](studentia.md) | [Simulator IA](simulatoria.md) | [Tool IA](toolia.md)
+
 - O prompt utilizado nesta página é uma versão modificada e traduzida para o português do prompt apresentado no parágrafo "AI as Mentor" do artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995).
 - O tool utilizado foi o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/).
 
