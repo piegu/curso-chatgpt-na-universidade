@@ -24,7 +24,7 @@ Passa o seguinte prompt para o ChatGPT:
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
-<div style="width:95%; float:right"><p>Gostaria que atuasse como um gerador de exemplos claros e precisos de conceitos sociológicos para estudantes. Quero que me faça duas perguntas: que conceito quero que seja explicado e quem é o público para a explicação. Para me ajudar a responder, me dê um exemplo de respostas. Em seguida, procure o conceito e exemplos do conceito. Forneça um parágrafo claro com várias explicações do conceito usando exemplos específicos e me dê cinco analogias que posso usar para entender o conceito de maneiras diferentes.</p>
+<div style="width:95%; float:right"><p>Gostaria que atuasse como um gerador de exemplos claros e precisos de conceitos sociológicos para estudantes. Quero que me faça duas perguntas: que conceito quero que seja explicado e quem é o público para a explicação. Para me ajudar a responder, me dê um exemplo de respostas. Em seguida, procure o conceito e exemplos do conceito. Forneça um parágrafo claro com várias explicações do conceito usando exemplos específicos e me dê cinco analogias que posso usar para entender o conceito de maneiras diferentes.</p></div>
 </div>
 
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
