@@ -7,11 +7,21 @@
 - O prompt utilizado nesta página é uma versão modificada e traduzida para o português do prompt apresentado no parágrafo "AI as Mentor" do artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995).
 - O tool utilizado foi o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/).
 
-## Definir o prompt
-
-Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída. No entanto, sua formulação faz toda a diferença. Se você deseja criar um agente, por exemplo, precisa definir sua função, seu objetivo, o que ele tem que fazer (mesmo o que não pode fazer!) e como, o que pode dizer (e não dizer!) todas as etapas até o final de sua atuação.
-
 ## Interagir com o Mentor IA
+
+(Tradução para o português da página 6 do artigo)
+
+A IA tem o potencial de **ajudar os estudantes a obter feedback frequente enquanto trabalham**, fornecendo reações imediatas e adaptativas aos seus projetos.
+
+**Teoria**: cometer erros pode ajudar os estudantes a aprender. particularmente se esses erros forem seguidos de feedback personalizado para cada estudante (Metcalfe, 2012). Para ser eficaz, esse feedback deve ser oportuno e orientado para objetivos, ajudando os estudantes a atingir seus objetivos. Ele deve apresentar uma visão geral equilibrada do desempenho de um estudante, destacando os pontos fortes e as áreas de melhoria. Além disso, deve ser acionável, capacitando os estudantes a agir e melhorar seu trabalho. O feedback eficaz aponta lacunas e erros e oferece explicações sobre o que os estudantes devem fazer para melhorar (Wiliam, 2011).
+
+Os pesquisadores observam a importância de incorporar o feedback no processo de aprendizado mais amplo, em vez de fornecê-lo na conclusão de um projeto, teste ou tarefa. Fornecer feedback em intervalos regulares ao longo da jornada de aprendizado facilita correções de curso oportunas, maximizando o potencial de melhoria (Wiggins, 2015). Quando o feedback é associado à prática, cria um ambiente que ajuda os estudantes a aprender (Mccrea, 2023).
+
+O feedback eficaz conecta a lacuna entre as habilidades atuais dos estudantes e os resultados de aprendizagem pretendidos. Tem três componentes: feed-up, feedback e feed-forward. O feed-up serve para articular claramente as metas e expectativas que os estudantes devem atingir. O feedback reflete o progresso atual dos estudantes e aponta áreas que requerem maior desenvolvimento; ele fornece conselhos acionáveis, ajudando os estudantes a atingir seus objetivos. O feed-forward ajuda os professores a planejar e ajustar suas aulas com base no trabalho dos estudantes. (Kirschner & Neelen, 2018).
+
+Embora o feedback contínuo e personalizado seja importante, é difícil e demorado implementá-lo em um ambiente de turma grande. O tempo e o esforço necessários para fornecer feedback personalizado de forma consistente a vários estudantes podem ser assustadores. No entanto, com orientação e supervisão, parte desse trabalho pode mudar para a IA.
+
+## Prompt
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
