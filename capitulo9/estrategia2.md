@@ -8,7 +8,11 @@
 
 ## Sobre
 
-(...)
+(Tradução para o português da página 8 do artigo)
+
+O ensino envolve explicações lógicas e coerentes (Ericsson & Lehmann, 1996). Explicações eficazes estabelecem as bases para o conhecimento fundamental que ajuda os estudantes a construir mapas mentais de tópicos (Willingham, 2023). Para desenvolver explicações eficazes, os professores devem: entender onde os estudantes estão e o que eles já sabem (conhecimento prévio), sequenciar e estruturar suas explicações para ir do simples ao complexo (uma abordagem passo a passo), fornecer dicas organizacionais que ajudem os estudantes acompanhe (estamos aqui, a seguir passaremos para ..) e adicione detalhes concretos a cada explicação (exemplos ou analogias) que ajudam os estudantes a compreender e contextualizar um novo conceito à luz do que já sabem. O objetivo de qualquer explicação: os estudantes devem eventualmente ser capazes de explicar um conceito aos outros com suas próprias palavras (Willingham, 2023). 
+
+Produzir muitas explicações de um conceito é uma tarefa complicada e demorada por vários motivos: o conhecimento do estudante varia em qualquer assunto; alguns conceitos são abstratos ou totalmente desconhecidos para os estudantes que podem precisar de várias explicações adaptadas ao seu nível de compreensão, e essas explicações podem se beneficiar de exemplos, modelos ou demonstrações; algumas explicações podem precisar de muitas informações básicas que os estudantes podem não ter à mão; adaptar as explicações aos níveis de aprendizado do estudante exige que os professores prestem muita atenção à nova terminologia, contexto e carga cognitiva – os estudantes que são novos em um tópico podem ficar sobrecarregados com muitos detalhes ou linguagem que não é precisa ou familiar. E, finalmente, os professores são especialistas - para fornecer explicações claras e lógicas para os novatos (estudantes), eles devem acessar seu próprio conhecimento e desconstruir o que sabem para torná-lo acessível (Ericsson & Pool, 2016).
 
 ## Prompt
 
