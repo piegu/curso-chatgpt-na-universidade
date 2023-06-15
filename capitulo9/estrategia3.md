@@ -1,4 +1,4 @@
-# ChatGPT para Professor >> Criador de questionários para os estudantes
+# ChatGPT para o Professor >> Criador de questionários para os estudantes
 
 [Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | Criador de questionários | [Avaliador do aprendizado](estrategia4.md)
 
