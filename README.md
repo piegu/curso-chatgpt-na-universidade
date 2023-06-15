@@ -32,3 +32,7 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
   - [Gerador de explicações de conceito](capitulo9/estrategia2.md)
   - [Criador de questionários](capitulo9/estrategia3.md)
   - [Avaliador do aprendizado](capitulo9/estrategia4.md)
+ 
+ ## Para brincar (e apprender)
+
+ - [Outros prompts](capitulo10/)
