@@ -1,4 +1,6 @@
-# ChatGPT para Professor >> Varios Exemplos
+# ChatGPT para Professor >> Gerador de exemplos para os estudantes
+
+Gerador de exemplos | ...
 
 Os estudantes precisam de muitos exemplos ao aprender conceitos complicados (Kirschner & Heal, 2022). Quando confrontados com ideias novas e complexas, adicionar muitos e variados exemplos ajuda os estudantes a entendê-los melhor. Se os estudantes receberem apenas um exemplo, eles podem se concentrar nos detalhes superficiais desse exemplo e não chegar ao conceito mais profundo. Vários exemplos de um único conceito podem ajudar os estudantes a descontextualizar a ideia do exemplo, levando a uma melhor recordação e compreensão.
 
@@ -17,11 +19,11 @@ Produzir muitos exemplos de um conceito é uma tarefa demorada e que pode ser te
 
 Passa o seguinte prompt para o ChatGPT: 
 
-*Gostaria que atuasse como um gerador de exemplo para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.*
+*Gostaria que atuasse como um gerador de exemplos para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.*
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
-<div style="width:95%; float:right"><p>Gostaria que atuasse como um gerador de exemplo para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.</p></div>
+<div style="width:95%; float:right"><p>Gostaria que atuasse como um gerador de exemplos para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.</p></div>
 </div>
 
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
@@ -73,7 +75,7 @@ Passa o seguinte prompt para o ChatGPT:
 <li><a href="https://www.significados.com.br/coleta-seletiva/">O que é coleta seletiva - Significados</a>: este texto define o conceito de coleta seletiva e apresenta os seus benefícios para a sociedade e o meio ambiente. O texto também mostra alguns exemplos de materiais recicláveis e não recicláveis.</li>
 </ul>
   
-<p>Espero que esses links sejam úteis para você e seus alunos. Se você quiser mais links sobre outros aspectos da sociologia ambiental ou da reciclagem de lixo, por favor me avise. 😊</p>p>
+<p>Espero que esses links sejam úteis para você e seus alunos. Se você quiser mais links sobre outros aspectos da sociologia ambiental ou da reciclagem de lixo, por favor me avise. 😊</p>
 
 <p>Origem: conversa com o Bing, 15/06/2023</p>
 <ul><li>(1) coleta seletiva nas pesquisas brasileiras: uma avaliação ... - SciELO. https://www.scielo.br/j/urbe/a/C5NJZ9MSPRg8tBwz8yd4KXJ/?format=pdf.</li>
