@@ -1,8 +1,13 @@
 # ChatGPT para Estudante >> Tutor IA
 
-Fonte: [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)
+Tutor IA | [Coach IA](coachia.md) | [Mentor IA](mentoria.md) | [Teammate IA](teammateia.md) | [Student IA](studentia.md) | [Simulator IA](simulatoria.md) | [Tool IA](toolia.md)
+
+- O prompt utilizado nesta página é uma versão modificada e traduzida para o português do prompt apresentado no parágrafo "AI as Mentor" do artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995).
+- O tool utilizado foi o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/).
 
 ## Definir o prompt
+
+Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída. No entanto, sua formulação faz toda a diferença. Se você deseja criar um agente, por exemplo, precisa definir sua função, seu objetivo, o que ele tem que fazer (mesmo o que não pode fazer!) e como, o que pode dizer (e não dizer!) todas as etapas até o final de sua atuação.
 
 <img src="../imagens/aitutor_prompt.png" alt="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" title="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" width='70%' height='70%'>
 
