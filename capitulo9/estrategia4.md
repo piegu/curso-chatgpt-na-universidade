@@ -6,21 +6,21 @@
 - O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
 - A ferramenta utilizada é o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (sem necessidade de conta e gratuito).
 
-## Sobre
+## Avaliar o aprendizado
 
 (Tradução para o português da página 16 do artigo)
 
-Várias técnicas de avaliação em sala de aula podem ajudar professors e estudantes a monitorar seu aprendizado e compreensão do material do curso. Estes são importantes porque podem fornecer feedback imediato tanto para os professors quanto para os estudantes sobre o que os estudantes sabem e, principalmente, sobre o que os confunde. Conhecido como papel de 1 minuto ou exercício de ponto mais confuso, essas avaliações incentivam o aprendizado ativo e a reflexão, pedindo aos estudantes que resumam e questionem seus conhecimentos e identifiquem áreas de confusão (Angelo & Cross, 1993). Quaisquer lacunas podem ser abordadas em aulas futuras. Esses exercícios também aumentam o envolvimento e a motivação dos estudantes, mostrando aos estudantes que os professors respondem às suas necessidades e que suas perguntas e opiniões são importantes (Wolvoord, 2010).
+**Várias técnicas de avaliação em sala de aula podem ajudar professors e estudantes a monitorar seu aprendizado e compreensão do material do curso.** Essas são importantes porque podem **fornecer feedback imediato tanto para os professors quanto para os estudantes sobre o que os estudantes sabem e, principalmente, sobre o que os confunde**. Conhecido como papel de 1 minuto ou exercício de ponto mais confuso, **essas avaliações incentivam o aprendizado ativo e a reflexão**, pedindo aos estudantes que resumam e questionem seus conhecimentos e identifiquem áreas de confusão (Angelo & Cross, 1993). Quaisquer lacunas podem ser abordadas em aulas futuras. **Esses exercícios também aumentam o envolvimento e a motivação dos estudantes**, mostrando aos estudantes que os professors respondem às suas necessidades e que suas perguntas e opiniões são importantes (Wolvoord, 2010).
 
-Os professors podem decidir no que desejam se concentrar para projetar essa avaliação. Por exemplo, os professors podem se concentrar em uma atividade específica, tópico ou discussão em classe. Em seguida, escreva uma pergunta para os estudantes responderem que revelará o que os estudantes entendem e o que os confunde. Por exemplo, a pergunta pode ser: *Qual foi a ideia ou conceito mais importante abordado na aula hoje? Por que você acha que essa ideia é importante? Qual é o conceito de classe mais difícil até agora? O que você lutou para entender? Que conceito ou problema você gostaria de ver explorado com mais detalhes? (Angelo & Cruz, 2012).*
+**Os professors podem decidir no que desejam se concentrar para projetar essa avaliação.** Por exemplo, os professors podem se concentrar em uma atividade específica, tópico ou discussão em classe. Em seguida, escreva uma pergunta para os estudantes responderem que revelará o que os estudantes entendem e o que os confunde. Por exemplo, a pergunta pode ser: *Qual foi a ideia ou conceito mais importante abordado na aula hoje? Por que você acha que essa ideia é importante? Qual é o conceito de classe mais difícil até agora? O que você lutou para entender? Que conceito ou problema você gostaria de ver explorado com mais detalhes? (Angelo & Cruz, 2012).*
 
 ## Prompt
 
-Para que a IA ajude a resumir rapidamente as respostas dos estudantes, os instrutores podem criar um Documento Google ou qualquer documento compartilhado e solicitar que os estudantes enviem suas respostas.
-Em seguida, os instrutores podem enviar um conjunto de respostas coletivas à IA com o seguinte prompt:
+Para que a IA ajude a resumir rapidamente as respostas dos estudantes, os professores podem criar um Documento Google ou qualquer documento compartilhado e solicitar que os estudantes enviem suas respostas.
 
-*Sou um professor que quer entender o que os estudantes acharam mais importante em minha aula e o que os confundiu. Revise essas respostas e identifique temas e padrões comuns no estudante
-respostas. Resuma as respostas e liste os 3 pontos principais que os estudantes acharam mais importantes sobre a aula e as 3 áreas de confusão: [Insira o material aqui]*
+Em seguida, os professores podem enviar um conjunto de respostas coletivas à IA com o seguinte prompt:
+
+*Sou um professor que quer entender o que os estudantes acharam mais importante em minha aula e o que os confundiu. Revise essas respostas e identifique temas e padrões comuns no estudante respostas. Resuma as respostas entre aspas triplas e liste os 3 pontos principais que os estudantes acharam mais importantes sobre a aula e as 3 áreas de confusão: """Insira o material aqui"""*
 
 ### Respostas dos estudantes
 
@@ -47,8 +47,7 @@ Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las co
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
-<div style="width:95%; float:right"><p>Sou um professor que quer entender o que os estudantes acharam mais importante em minha aula e o que os confundiu. Revise essas respostas e identifique temas e padrões comuns no estudante
-respostas. Resuma as respostas entre aspas triplas e liste os 3 pontos principais que os estudantes acharam mais importantes sobre a aula e as 3 áreas de confusão:</p>
+<div style="width:95%; float:right"><p>Sou um professor que quer entender o que os estudantes acharam mais importante em minha aula e o que os confundiu. Revise essas respostas e identifique temas e padrões comuns no estudante respostas. Resuma as respostas entre aspas triplas e liste os 3 pontos principais que os estudantes acharam mais importantes sobre a aula e as 3 áreas de confusão:</p>
 <p>"""<br>
 <ul>
 <li>Roberto: O poder para Foucault é uma coisa que está em todo lugar, mas não é de ninguém. Ele diz que o poder não é um recurso que alguém tem e usa para mandar nos outros, mas uma relação que se estabelece entre as pessoas. O poder é exercido através da linguagem, do conhecimento e das normas que definem o que é verdadeiro ou falso, certo ou errado.</li>
