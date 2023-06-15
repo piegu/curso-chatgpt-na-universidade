@@ -1,6 +1,6 @@
 # ChatGPT para Professor >> Avaliador do aprendizado dos estudantes
 
-[Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | [Criador de questionários de múltipla escolha](estrategia3.md) | Avaliador do aprendizado
+[Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | [Criador de questionários](estrategia3.md) | Avaliador do aprendizado
 
 - O artigo científico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243) é a fonte desta página. Foi escrito pelo professor [Ethan Mollick](https://www.linkin.com/in/emollick/), professor da Wharton School da Universidade da Pensilvânia (EUA) no grupo de Empreendedorismo do Departamento de Management, onde ele estuda e ensina inovação e empreendedorismo.
 - O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
