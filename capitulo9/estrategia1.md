@@ -1,6 +1,6 @@
 # ChatGPT para Professor >> Gerador de exemplos para os estudantes
 
-Gerador de exemplos | ...
+Gerador de exemplos | [Gerador de explicações de conceito](estrategia2.md) 
 
 Os estudantes precisam de muitos exemplos ao aprender conceitos complicados (Kirschner & Heal, 2022). Quando confrontados com ideias novas e complexas, adicionar muitos e variados exemplos ajuda os estudantes a entendê-los melhor. Se os estudantes receberem apenas um exemplo, eles podem se concentrar nos detalhes superficiais desse exemplo e não chegar ao conceito mais profundo. Vários exemplos de um único conceito podem ajudar os estudantes a descontextualizar a ideia do exemplo, levando a uma melhor recordação e compreensão.
 
@@ -43,10 +43,10 @@ Passa o seguinte prompt para o ChatGPT:
 <p>Aqui estão quatro exemplos diferentes e variados do conceito de reciclagem de lixo em ação:</p>
 
 <ul>
-<li>**Coleta seletiva**: é um sistema de separação dos resíduos na fonte, de acordo com o tipo de material (papel, plástico, metal, vidro, orgânico etc.), que facilita o seu reaproveitamento posterior. A coleta seletiva pode ser feita por meio de lixeiras coloridas, que indicam o tipo de resíduo que cada uma recebe, ou por meio de programas municipais ou privados que recolhem os materiais separados pelos cidadãos³.</li>
-<li>**Compostagem**: é um processo biológico de decomposição da matéria orgânica (restos de alimentos, folhas, galhos etc.) em um produto chamado composto, que pode ser usado como adubo para plantas. A compostagem pode ser feita em pequena escala, em residências ou escolas, ou em grande escala, em usinas ou aterros sanitários. A compostagem contribui para a redução do volume de lixo orgânico e para a melhoria da qualidade do solo⁴.</li>
-<li>**Reciclagem artesanal**: é uma forma criativa e sustentável de reaproveitar materiais que seriam jogados fora, transformando-os em objetos úteis ou decorativos. A reciclagem artesanal pode ser feita com diversos tipos de materiais, como garrafas pet, latas, caixas, jornais, revistas, CDs, rolhas etc. A reciclagem artesanal estimula a criatividade, a consciência ambiental e a geração de renda para quem produz⁵.</li>
-<li>**Reciclagem industrial**: é um processo tecnológico que utiliza máquinas e equipamentos para transformar os resíduos em novos produtos ou matérias-primas para a indústria. A reciclagem industrial pode ser feita com diversos tipos de materiais, como papel, plástico, metal, vidro etc. A reciclagem industrial reduz o consumo de recursos naturais, a emissão de poluentes e os custos de produção⁶.</li>
+<li><b>Coleta seletiva</b>: é um sistema de separação dos resíduos na fonte, de acordo com o tipo de material (papel, plástico, metal, vidro, orgânico etc.), que facilita o seu reaproveitamento posterior. A coleta seletiva pode ser feita por meio de lixeiras coloridas, que indicam o tipo de resíduo que cada uma recebe, ou por meio de programas municipais ou privados que recolhem os materiais separados pelos cidadãos³.</li>
+<li><b>Compostagem</b>: é um processo biológico de decomposição da matéria orgânica (restos de alimentos, folhas, galhos etc.) em um produto chamado composto, que pode ser usado como adubo para plantas. A compostagem pode ser feita em pequena escala, em residências ou escolas, ou em grande escala, em usinas ou aterros sanitários. A compostagem contribui para a redução do volume de lixo orgânico e para a melhoria da qualidade do solo⁴.</li>
+<li><b>Reciclagem artesanal</b>: é uma forma criativa e sustentável de reaproveitar materiais que seriam jogados fora, transformando-os em objetos úteis ou decorativos. A reciclagem artesanal pode ser feita com diversos tipos de materiais, como garrafas pet, latas, caixas, jornais, revistas, CDs, rolhas etc. A reciclagem artesanal estimula a criatividade, a consciência ambiental e a geração de renda para quem produz⁵.</li>
+<li><b>Reciclagem industrial</b>: é um processo tecnológico que utiliza máquinas e equipamentos para transformar os resíduos em novos produtos ou matérias-primas para a indústria. A reciclagem industrial pode ser feita com diversos tipos de materiais, como papel, plástico, metal, vidro etc. A reciclagem industrial reduz o consumo de recursos naturais, a emissão de poluentes e os custos de produção⁶.</li>
 </ul>
 
 <p>Espero que esses exemplos tenham sido úteis para você e seus alunos. Se você tiver alguma dúvida ou quiser mais exemplos sobre outros conceitos, por favor me avise. 😊</p>
