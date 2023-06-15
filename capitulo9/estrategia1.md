@@ -48,25 +48,22 @@ Passa o seguinte prompt para o ChatGPT:
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Ok, eu encontrei algumas informações sobre sociologia ambiental e reciclagem de lixo. A sociologia ambiental é um ramo da sociologia que estuda as relações entre a sociedade e o meio ambiente, e como os problemas ambientais são construídos, percebidos e enfrentados pelos diferentes grupos sociais¹. A reciclagem de lixo é um processo de transformação de materiais descartados em novos produtos ou matérias-primas, com o objetivo de reduzir o impacto ambiental e social da geração de resíduos².</p>
-
 <p>Aqui estão quatro exemplos diferentes e variados do conceito de reciclagem de lixo em ação:</p>
-
 <ul>
 <li><b>Coleta seletiva</b>: é um sistema de separação dos resíduos na fonte, de acordo com o tipo de material (papel, plástico, metal, vidro, orgânico etc.), que facilita o seu reaproveitamento posterior. A coleta seletiva pode ser feita por meio de lixeiras coloridas, que indicam o tipo de resíduo que cada uma recebe, ou por meio de programas municipais ou privados que recolhem os materiais separados pelos cidadãos³.</li>
 <li><b>Compostagem</b>: é um processo biológico de decomposição da matéria orgânica (restos de alimentos, folhas, galhos etc.) em um produto chamado composto, que pode ser usado como adubo para plantas. A compostagem pode ser feita em pequena escala, em residências ou escolas, ou em grande escala, em usinas ou aterros sanitários. A compostagem contribui para a redução do volume de lixo orgânico e para a melhoria da qualidade do solo⁴.</li>
 <li><b>Reciclagem artesanal</b>: é uma forma criativa e sustentável de reaproveitar materiais que seriam jogados fora, transformando-os em objetos úteis ou decorativos. A reciclagem artesanal pode ser feita com diversos tipos de materiais, como garrafas pet, latas, caixas, jornais, revistas, CDs, rolhas etc. A reciclagem artesanal estimula a criatividade, a consciência ambiental e a geração de renda para quem produz⁵.</li>
 <li><b>Reciclagem industrial</b>: é um processo tecnológico que utiliza máquinas e equipamentos para transformar os resíduos em novos produtos ou matérias-primas para a indústria. A reciclagem industrial pode ser feita com diversos tipos de materiais, como papel, plástico, metal, vidro etc. A reciclagem industrial reduz o consumo de recursos naturais, a emissão de poluentes e os custos de produção⁶.</li>
 </ul>
-
 <p>Espero que esses exemplos tenham sido úteis para você e seus alunos. Se você tiver alguma dúvida ou quiser mais exemplos sobre outros conceitos, por favor me avise. 😊</p>
-
 <p>Origem: conversa com o Bing, 15/06/2023</p>
-<li>(1) Lixo: A poluição nossa de cada dia - Disciplina - Sociologia - Paraná. https://bing.com/search?q=sociologia+ambiental+reciclagem+de+lixo.</li>
-<li>(2) Por que a reciclagem é importante? 5 fatos que você precisa saber. https://www.nationalgeographicbrasil.com/meio-ambiente/2022/05/por-que-a-reciclagem-e-importante-5-fatos-que-voce-precisa-saber.</li>
+<ul>
+<li>(1) Lixo: A poluição nossa de cada dia - Disciplina - Sociologia - Paraná. https://bing.com/search?q=sociologia+ambiental+reciclagem+de+lixo</li>
+<li>(2) Por que a reciclagem é importante? 5 fatos que você precisa saber. https://www.nationalgeographicbrasil.com/meio-ambiente/2022/05/</li>por-que-a-reciclagem-e-importante-5-fatos-que-voce-precisa-saber</li>
 <li>(3) Reciclagem: o que é, como fazer e por que é importante reciclar o lixo .... https://umsoplaneta.globo.com/sociedade/consumo-consciente/noticia/2021/07/13/</li>reciclagem-o-que-e-como-fazer-e-por-que-e-importante-reciclar-o-lixo.ghtml.</li>
-<li>(4) Reciclagem: o que é, função, tipos, cores - Mundo Educação. https://mundoeducacao.uol.com.br/geografia/reciclagem.htm.
-<li>(5) Lixo: A poluição nossa de cada dia - Disciplina - Sociologia - Paraná. https://www.sociologia.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=324.</li>
-<li>(6) Como e porquê separar o lixo? - Ministério do Meio Ambiente e .... https://www.gov.br/mma/pt-br/noticias/como-e-porque-separar-o-lixo.</li>
+<li>(4) Reciclagem: o que é, função, tipos, cores - Mundo Educação. https://mundoeducacao.uol.com.br/geografia/reciclagem.htm</li>
+<li>(5) Lixo: A poluição nossa de cada dia - Disciplina - Sociologia - Paraná. https://www.sociologia.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=324</li>
+<li>(6) Como e porquê separar o lixo? - Ministério do Meio Ambiente e .... https://www.gov.br/mma/pt-br/noticias/como-e-porque-separar-o-lixo</li>
 </ul></div>
 </div>
 
