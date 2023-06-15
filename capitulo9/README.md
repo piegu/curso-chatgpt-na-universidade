@@ -1,6 +1,6 @@
 # ChatGPT para Professor
 
-[Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) 
+[Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | [Criador de questionários de múltipla escolha](estrategia3.md]
 
 - O artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243) do professor [Ethan Mollick](https://www.linkedin.com/in/emollick/), professor na Wharton School da Universidade da Pensilvânia (EUA) no grupo de Empreendedorismo do Departamento de Managament, onde estuda e ensina sobre inovação e empreendedorismo.
 - Os prompts usados ​​nas páginas desse capitulo são versões modificadas traduzidas para o português dos prompts apresentados nesse artigo.
