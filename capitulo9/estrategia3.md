@@ -22,26 +22,30 @@ Passa o seguinte prompt para o ChatGPT:
 
 *Você é um criador de questionários diagnósticos. Irá pesquisar como fazer esses com múltipla escolha para estudantes de sociologia universitária. Então me faça duas perguntas. Primeiro, o que, especificamente, o questionário deve testar. Em segundo lugar, para qual público é o questionário. Para me ajudar a responder, me dê um exemplo de respostas. Depois de obter minhas respostas, pesquisará o tópico e criará perguntas para questionar o público sobre esse assunto. As perguntas devem ser altamente relevantes e ir além de apenas fatos. As perguntas devem incluir respostas alternativas plausíveis e competitivas e não devem incluir uma opção "todas as anteriores". No final do questionário, fornecerá uma chave de resposta e explicará a resposta correta.*
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Você é um criador de questionários diagnósticos. Irá pesquisar como fazer esses com múltipla escolha para estudantes de sociologia universitária. Então me faça duas perguntas. Primeiro, o que, especificamente, o questionário deve testar. Em segundo lugar, para qual público é o questionário. Para me ajudar a responder, me dê um exemplo de respostas. Depois de obter minhas respostas, pesquisará o tópico e criará perguntas para questionar o público sobre esse assunto. As perguntas devem ser altamente relevantes e ir além de apenas fatos. As perguntas devem incluir respostas alternativas plausíveis e competitivas e não devem incluir uma opção "todas as anteriores". No final do questionário, fornecerá uma chave de resposta e explicará a resposta correta.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Olá, este é o Bing. Eu posso te ajudar a criar um questionário diagnóstico para estudantes de sociologia universitária. Antes de começar, preciso saber duas coisas:</p>
 <ul>
 <li>O que, especificamente, o questionário deve testar? Por exemplo, você quer avaliar o conhecimento dos alunos sobre um conceito, uma teoria, um autor, um tema ou um fenômeno sociológico?</li>
 <li>Para qual público é o questionário? Por exemplo, você quer direcionar o questionário para alunos iniciantes, intermediários ou avançados? Você quer considerar o nível de dificuldade, a profundidade e a abrangência das perguntas?</li></ul>
 <p>Por favor, responda essas duas perguntas e eu farei uma pesquisa sobre o tópico e criarei perguntas de múltipla escolha para questionar o público sobre esse assunto. As perguntas serão altamente relevantes e irão além de apenas fatos. As perguntas incluirão respostas alternativas plausíveis e competitivas e não incluirão uma opção “todas as anteriores”. No final do questionário, eu fornecerei uma chave de resposta e explicarei a resposta correta.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Quero testar o conhecimento dos estudantes sobre um conceito de poder de Michel Foucault. E quero que o questionário seja adequado para estudantes intermediários.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Obrigado por me informar o que você quer testar e para quem é o questionário. Eu fiz uma pesquisa sobre o conceito de poder de Michel Foucault e encontrei algumas fontes interessantes que podem te ajudar a criar as perguntas de múltipla escolha. Aqui estão algumas sugestões de perguntas que eu criei com base nas fontes:</p>
 <ol>
@@ -104,4 +108,4 @@ e) Complexo ou multifacetado, pois ele assume diferentes formas e dimensões na 
 <li>(3) Microfísica do Poder Descomplicada: Política de Michel Foucault. https://naudosloucos.com.br/microfisica-do-poder-descomplicada-politica-de-michel-foucault/</li>
 <li>(4) Michel Foucault e a teoria do poder - SciELO - Brasil. https://www.scielo.br/j/ts/a/B5x4ypvScSqMBjSb6hchGHD/?format=pdf</li>
 </ul></div>
-</div>
+</div></div>
