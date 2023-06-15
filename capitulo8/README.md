@@ -2,6 +2,8 @@
 
 [Tutor IA](tutoria.md) | [Coach IA](coachia.md) | [Mentor IA](mentoria.md) | [Teammate IA](teammateia.md) | [Student IA](studentia.md) | [Simulator IA](simulatoria.md) | [Tool IA](toolia.md)
 
+## Contexto
+
 - Os prompts usados ​​nessas páginas são versões modificadas traduzidas para o português dos prompts apresentados no artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995).
 - As ferramentas utilizadas são [ChatGPT Plus no site OpenAI](https://chat.openai.com/) (conta privada e paga) e [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (não precisa de uma conta e é de graça).
 
