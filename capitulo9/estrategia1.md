@@ -2,19 +2,20 @@
 
 Gerador de exemplos | [Gerador de explicações de conceito](estrategia2.md) | [Criador de questionários](estrategia3.md) | [Avaliador do aprendizado](estrategia4.md)
 
+## Contexto
+
 - O artigo científico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243) é a fonte desta página. Foi escrito pelo professor [Ethan Mollick](https://www.linkin.com/in/emollick/), professor da Wharton School da Universidade da Pensilvânia (EUA) no grupo de Empreendedorismo do Departamento de Management, onde ele estuda e ensina inovação e empreendedorismo.
 - O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
 - A ferramenta utilizada é o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (sem necessidade de conta e gratuito).
 
-## Sobre
+## Exemplos sobre os conceitos
 
 (Tradução para o português da página 3 do artigo)
 
-Os estudantes precisam de muitos exemplos ao aprender conceitos complicados (Kirschner & Heal, 2022). Quando confrontados com ideias novas e complexas, adicionar muitos e variados exemplos ajuda os estudantes a entendê-los melhor. Se os estudantes receberem apenas um exemplo, eles podem se concentrar nos detalhes superficiais desse exemplo e não chegar ao conceito mais profundo. Vários exemplos de um único conceito podem ajudar os estudantes a descontextualizar a ideia do exemplo, levando a uma melhor recordação e compreensão.
+**Os estudantes precisam de muitos exemplos ao aprender conceitos complicados** (Kirschner & Heal, 2022). Quando confrontados com ideias novas e complexas, adicionar muitos e variados exemplos ajuda os estudantes a entendê-los melhor. Se os estudantes receberem apenas um exemplo, eles podem se concentrar nos detalhes superficiais desse exemplo e não chegar ao conceito mais profundo. Vários exemplos de um único conceito podem ajudar os estudantes a descontextualizar a ideia do exemplo, levando a uma melhor recordação e compreensão.
 
-Criar exemplos para fins instrucionais pode ser uma tarefa demorada e desafiadora para os educadores, especialmente quando eles visam produzir diversos exemplos que ilustrem efetivamente vários aspectos de um conceito. Os educadores geralmente têm agendas lotadas e inúmeras responsabilidades, o que aumenta a complexidade de gerar
-exemplos que atendem a critérios específicos. Ao criar exemplos, os instrutores precisam considerar vários fatores: Os exemplos são envolventes e relevantes para os estudantes?
-Por exemplo, incorporar problemas ou questões do mundo real pode ajudar a adaptar os exemplos para despertar o interesse dos estudantes. Os exemplos atingem o equilíbrio certo entre detalhes e clareza? É vital garantir que os exemplos não sejam excessivamente intrincados nem excessivamente simples
+**Criar exemplos para fins instrucionais pode ser uma tarefa demorada e desafiadora para os professores**, especialmente quando eles visam produzir diversos exemplos que ilustrem efetivamente vários aspectos de um conceito. Os professores geralmente têm agendas lotadas e inúmeras responsabilidades, o que aumenta a complexidade de gerar
+exemplos que atendem a critérios específicos. Ao criar exemplos, os professores precisam considerar vários fatores: os exemplos são envolventes e relevantes para os estudantes? Por exemplo, **incorporar problemas ou questões do mundo real pode ajudar a adaptar os exemplos para despertar o interesse dos estudantes**. Os exemplos atingem o equilíbrio certo entre detalhes e clareza? **É vital garantir que os exemplos não sejam excessivamente intrincados nem excessivamente simples.**
 
 Produzir muitos exemplos de um conceito é uma tarefa demorada e que pode ser terceirizada para a IA. A IA pode gerar vários exemplos em muito pouco tempo. Aqui está como:
 1. Escolha um conceito que você deseja que os estudantes entendam profundamente
