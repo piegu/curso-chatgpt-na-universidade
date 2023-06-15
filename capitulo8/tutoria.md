@@ -1,6 +1,6 @@
 # ChatGPT para Estudante >> Tutor IA
 
-Tutor IA | [Coach IA](coachia.md) | [Mentor IA](mentoria.md) | [Teammate IA](teammateia.md) | [Student IA](studentia.md) | [Simulator IA](simulatoria.md) | [Tool IA](toolia.md)
+Tutor IA | [Mentor IA](mentoria.md)
 
 ## Contexto
 
