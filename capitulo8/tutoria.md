@@ -27,7 +27,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 </div>
 </div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">a sociologia da reprodução das diferenças, materiais ou econômicas</div>
@@ -39,7 +39,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right">Ótimo! A sociologia da reprodução das diferenças materiais ou econômicas é um tópico fascinante. Agora, poderia me dizer qual é o seu nível de aprendizado? Você é um estudante do ensino médio, um estudante universitário ou um profissional?</div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">um estudante universitário</div>
@@ -51,7 +51,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right">Excelente! É sempre bom ver estudantes universitários interessados em aprofundar seus conhecimentos em sociologia. Agora, para que eu possa adaptar melhor minha explicação ao seu nível, você poderia me dizer o que já sabe sobre a sociologia da reprodução das diferenças materiais ou econômicas?</div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Não muito. Sou estudante de graduação e iniciante em sociologia.</div>
@@ -63,7 +63,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right"><p>Entendi, obrigado por compartilhar. Não se preocupe, todos nós começamos de algum lugar e é ótimo que você esteja disposto a aprender.</p><p>A sociologia da reprodução das diferenças materiais ou econômicas é um campo que se concentra em como as desigualdades econômicas são perpetuadas e reproduzidas na sociedade. Isso pode acontecer de várias maneiras, incluindo através de sistemas educacionais, práticas de trabalho e políticas governamentais.</p><p>Um exemplo clássico disso é o conceito de "capital cultural" de Pierre Bourdieu. Ele argumenta que as famílias de classe alta têm acesso a certos tipos de conhecimento e habilidades (como a apreciação da arte, a capacidade de tocar um instrumento musical, etc.) que são valorizados pela sociedade. Essas habilidades podem ajudar a garantir que essas famílias mantenham sua posição de elite, pois elas podem ser usadas para obter acesso a melhores oportunidades educacionais e profissionais.</p><p>Você consegue pensar em algum exemplo de como as desigualdades econômicas podem ser reproduzidas na sociedade?</p></div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Talvez a saúde seja um exemplo das desigualdades econômicas que serão reproduzidas. Uma família de classe média poderá ter um plano de saúde e assim ser atendida rapidamente quando uma família pobre tiver que esperar na fila do SUS para receber o mesmo tratamento. A primeira aprenderá a cuidar de si mesma quando a segunda não terá acesso aos mesmos conhecimentos (além de não ter acesso aos mesmos tratamentos).</div>
@@ -75,7 +75,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right"><p>Excelente exemplo! Você está absolutamente correto. A saúde é uma área onde as desigualdades econômicas são claramente reproduzidas. As famílias mais ricas têm acesso a melhores cuidados de saúde, o que pode levar a uma vida mais longa e saudável. Por outro lado, as famílias mais pobres podem ter que depender de serviços de saúde públicos, que podem ser de qualidade inferior ou ter longos tempos de espera. Isso pode levar a uma pior saúde geral e a uma menor expectativa de vida.</p><p>Além disso, as famílias mais ricas também têm mais acesso à educação sobre saúde, o que pode ajudá-las a tomar melhores decisões sobre seus cuidados de saúde. Isso pode incluir coisas como entender a importância da alimentação saudável e do exercício físico, ou saber quando é apropriado procurar atendimento médico.</p><p>Agora, com base no que discutimos, você poderia explicar o conceito de reprodução de desigualdades econômicas com suas próprias palavras?</p></div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Bem, acho que esse conceito diz que a vida de um ser humano está condicionada ao seu nascimento. Em teoria, todo ser humano nasce livre e igual, mas, na realidade, isso é falso. Estou certo?</div>
@@ -87,7 +87,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right"><p>Você está no caminho certo! A ideia central é que, embora todos possam nascer livres em teoria, as circunstâncias de nosso nascimento - como a riqueza e o status de nossa família - podem ter um grande impacto em nossas oportunidades de vida. Essas desigualdades iniciais podem ser perpetuadas e até ampliadas ao longo do tempo através de vários mecanismos sociais, econômicos e culturais, resultando na reprodução de desigualdades econômicas. Portanto, a sociologia da reprodução das diferenças materiais ou econômicas busca entender como esses processos funcionam e como eles podem ser desafiados ou alterados.</p><p>Você fez um ótimo trabalho ao começar a entender esse conceito complexo! Se você tiver mais perguntas ou quiser explorar outros tópicos em sociologia, estou aqui para ajudar.</p></div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Sim. Se eu não como a sopa da minha mãe, que sempre detestei (a sopa, não minha mãe!), isso é um exemplo de reprodução das desigualdades econômicas?</div>
@@ -99,7 +99,7 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <div style="width:95%; float:right"><p>Na verdade, a situação que você descreveu parece ser mais um exemplo de gosto pessoal ou preferência alimentar do que de reprodução de desigualdades econômicas. A reprodução de desigualdades econômicas se refere mais a como as diferenças de riqueza e poder são mantidas e perpetuadas na sociedade.</p><p>No entanto, se quisermos estender essa situação para o campo da sociologia, poderíamos considerar o seguinte: se a sua aversão à sopa da sua mãe estivesse de alguma forma relacionada ao seu status socioeconômico - por exemplo, se você rejeitasse a sopa porque a considerasse um "alimento de pobre" e preferisse alimentos considerados de "classe alta" - então poderíamos começar a falar sobre reprodução de desigualdades. Isso porque suas preferências alimentares estariam reproduzindo e reforçando certas ideias sobre classe e status econômico.</p><p>Mas lembre-se, a sociologia é uma ciência complexa e muitas vezes as situações da vida real não se encaixam perfeitamente em uma teoria ou conceito. O importante é continuar questionando e explorando essas ideias. Você está fazendo um ótimo trabalho nisso! Você tem mais alguma pergunta ou há algo mais que você gostaria de discutir?</p></div>
 </div></div>
 
-<div style="width:100%; float:left; margin-bottom: 10px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right">Não. Hasta la vista!</div>
