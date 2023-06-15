@@ -2,6 +2,8 @@
 
 [Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | Criador de questionários | [Avaliador do aprendizado](estrategia4.md)
 
+## Contexto
+
 - O artigo científico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243) é a fonte desta página. Foi escrito pelo professor [Ethan Mollick](https://www.linkin.com/in/emollick/), professor da Wharton School da Universidade da Pensilvânia (EUA) no grupo de Empreendedorismo do Departamento de Management, onde ele estuda e ensina inovação e empreendedorismo.
 - O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
 - A ferramenta utilizada é o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (sem necessidade de conta e gratuito).
