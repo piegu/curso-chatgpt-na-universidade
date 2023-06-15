@@ -9,8 +9,6 @@ Tutor IA | [Coach IA](coachia.md) | [Mentor IA](mentoria.md) | [Teammate IA](tea
 
 Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída. No entanto, sua formulação faz toda a diferença. Se você deseja criar um agente, por exemplo, precisa definir sua função, seu objetivo, o que ele tem que fazer (mesmo o que não pode fazer!) e como, o que pode dizer (e não dizer!) todas as etapas até o final de sua atuação.
 
-<img src="../imagens/aitutor_prompt.png" alt="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" title="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" width='70%' height='70%'>
-
 ## Interagir com o Tutor IA
 
 <div style="width:100%; float:left; margin-bottom: 10px;">
