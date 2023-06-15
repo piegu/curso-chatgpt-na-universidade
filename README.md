@@ -28,8 +28,8 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
   - [Tutor IA](capitulo8/tutoria.md)
 - [Para o Professor](capitulo9/)
   - [Gerador de exemplos](capitulo9/estrategia1.md)
-  - [Gerador de explicações de conceito](estrategia2.md)
-  - [Criador de questionários de múltipla escolha](estrategia3.md)
+  - [Gerador de explicações de conceito](capitulo9/estrategia2.md)
+  - [Criador de questionários de múltipla escolha](capitulo9/estrategia3.md)
 
 
 
