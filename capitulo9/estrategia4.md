@@ -28,12 +28,14 @@ Em seguida, os professores podem enviar um conjunto de respostas coletivas à IA
 
 Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las com o seguinte prompt:
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Sobre o conceito de poder de Michel Foucault e com base no que ele já gerou, simule 5 textos únicos de 5 estudantes apresentando seus entendimentos (Roberto, Tania, Marcelo, Sofia, Helena). Limite cada texto a 50 palavras. Seja criativo com textos que estão certos, outros errados, outros certos em parte e errados pelo contrário. Os estudantes são da graduação, mas iniciantes em sociologia. Tente escrever os textos em estilos diferentes (formais, não formais, com erros ortográficos, com ironia, com alegria). Apresenta os textos da forma seguinte: nome: texto.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Ok, eu vou simular 5 textos únicos de 5 estudantes apresentando seus entendimentos sobre o conceito de poder de Michel Foucault. Eu vou tentar escrever os textos em estilos diferentes, como você pediu. Aqui estão os textos:</p>
 <ul>
@@ -43,11 +45,12 @@ Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las co
 <li>Sofia: Foucault define o poder como uma relação assimétrica que institui a autoridade e a obediência. Ele analisa o poder a partir das formas de dominação e submissão que se estabelecem em diferentes contextos históricos e sociais. O poder é produzido através das práticas discursivas, ou seja, através da linguagem e do conhecimento que produzimos e compartilhamos. O poder está relacionado com o direito, a verdade, a liberdade e a subjetividade.</li>
 <li>Helena: Eu não entendi muito bem o conceito de poder de Foucault, mas pelo que eu li, ele diz que o poder é algo que está em todo lugar e em ninguém ao mesmo tempo. Ele fala que o poder não é um recurso ou uma coisa que alguém tem, mas uma relação entre as pessoas. Ele também fala que o poder tem a ver com a linguagem, o conhecimento e as normas que a gente usa para falar das coisas.</li>
 </ul></div>
-</div>
+</div></div>
 
 ### ChatBing como avaliador
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Sou um professor que quer entender o que os estudantes acharam mais importante em minha aula e o que os confundiu. Revise essas respostas e identifique temas e padrões comuns no estudante respostas. Resuma as respostas entre aspas triplas e liste os 3 pontos principais que os estudantes acharam mais importantes sobre a aula e as 3 áreas de confusão:</p>
 <p>"""<br>
@@ -59,9 +62,10 @@ Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las co
 <li>Helena: Eu não entendi muito bem o conceito de poder de Foucault, mas pelo que eu li, ele diz que o poder é algo que está em todo lugar e em ninguém ao mesmo tempo. Ele fala que o poder não é um recurso ou uma coisa que alguém tem, mas uma relação entre as pessoas. Ele também fala que o poder tem a ver com a linguagem, o conhecimento e as normas que a gente usa para falar das coisas.</li>
 </ul>
 """</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Eu revisei as respostas dos estudantes e identifiquei alguns temas e padrões comuns. Aqui está o meu resumo:</p>
 <p>As respostas dos estudantes mostram que eles têm diferentes níveis de compreensão e interesse pelo conceito de poder de Foucault. Alguns estudantes demonstram ter captado as principais ideias e argumentos de Foucault, enquanto outros apresentam confusões ou dúvidas sobre o tema. Os estudantes também usam diferentes estilos de escrita, que variam desde o formal até o informal, com alguns erros ortográficos ou gramaticais.</p>
@@ -77,4 +81,4 @@ Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las co
 <li>A distinção entre as formas de produzir e de exercer o poder, e os diferentes meios pelos quais o poder é exercido.</li>
 <li>A relação entre o poder e as formas de resistência e contestação, e como o poder pode ser limitado ou transformado.</li>
 </ul></div>
-</div>
+</div></div>
