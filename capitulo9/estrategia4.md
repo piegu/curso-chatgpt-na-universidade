@@ -28,7 +28,7 @@ Como precisamos das respostas dos estudantes, pedi ao ChatBing para criá-las co
 
 <div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
-<div style="width:95%; float:right"><p>Sobre o conceito de poder de Michel Foucault e com base no que ele já gerou, simule 5 textos únicos de 5 estudantes apresentando seus entendimentos (Roberto, Tania, Marcelo, Sofia, Helena). Limite cada texto a 50 palavras. Seja criativo com textos que estão certos, outros errados, outros certos em parte e errados pelo contrário. Os estudantes são da graduação, mas iniciantes em sociologia. Tente escrever os textos em estilos diferentes (formais, não formais, com erros ortográficos, com ironia, com alegria). Apresenta os textos da forma seguinte <nome>: <texto>.</p></div>
+<div style="width:95%; float:right"><p>Sobre o conceito de poder de Michel Foucault e com base no que ele já gerou, simule 5 textos únicos de 5 estudantes apresentando seus entendimentos (Roberto, Tania, Marcelo, Sofia, Helena). Limite cada texto a 50 palavras. Seja criativo com textos que estão certos, outros errados, outros certos em parte e errados pelo contrário. Os estudantes são da graduação, mas iniciantes em sociologia. Tente escrever os textos em estilos diferentes (formais, não formais, com erros ortográficos, com ironia, com alegria). Apresenta os textos da forma seguinte: nome: texto.</p></div>
 </div>
 
 <div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
