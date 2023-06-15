@@ -6,13 +6,13 @@
 - O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
 - A ferramenta utilizada é o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (sem necessidade de conta e gratuito).
 
-## Sobre
+## Questionários como estratégia de ensino
 
 (Tradução para o português da página 11 do artigo)
 
-Questionários são uma estratégia de ensino eficaz em todos os níveis e ambientes educacionais. Esses testes não medem simplesmente o conhecimento; eles são um meiode aprendizagem. Testes repetidos e recuperação de conhecimento ajudam os alunos a reter informações a longo prazo (Karpicke & Roediger 2008).
+Questionários são uma estratégia de ensino eficaz em todos os níveis e ambientes educacionais. **Esses testes não medem simplesmente o conhecimento; eles são um meio de aprendizagem.** Testes repetidos e recuperação de conhecimento ajudam os alunos a reter informações a longo prazo (Karpicke & Roediger 2008).
 
-Esses testes fornecem prática de recuperação ativa, levando os estudantes a recordar informações da memória, o que pode ajudá-los a lembrar e recuperar informações no futuro (Kirschner & Heal, 2022). Eles também fornecem feedback aos estudantes sobre sua compreensão do material, permitindo que eles concentrem seus esforços nas lacunas de seu conhecimento e ajustem suas estratégias de aprendizado. Eles ajudam os estudantes a entender as informações, iniciando os processos mentais necessários para o desempenho em um exame de maior risco (Adesope et al., 2017). Esses testes também fornecem aos professores informações sobre o que os estudantes sabem e entendem, para que possam adaptar suas aulas com eficácia. 
+**Esses testes fornecem prática de recuperação ativa**, levando os estudantes a recordar informações da memória, o que pode ajudá-los a lembrar e recuperar informações no futuro (Kirschner & Heal, 2022). **Eles também fornecem feedback aos estudantes sobre sua compreensão do material**, permitindo que eles concentrem seus esforços nas lacunas de seu conhecimento e ajustem suas estratégias de aprendizado. **Eles ajudam os estudantes a entender as informações**, iniciando os processos mentais necessários para o desempenho em um exame de maior risco (Adesope et al., 2017). **Esses testes também fornecem aos professores informações sobre o que os estudantes sabem e entendem**, para que possam adaptar suas aulas com eficácia. 
 
 ## Prompt
 
