@@ -8,6 +8,10 @@
 - Os prompts usados ​​nas páginas desse capitulo são versões modificadas traduzidas para o português dos prompts apresentados nesse artigo.
 - As ferramentas utilizadas são [ChatGPT Plus no site OpenAI](https://chat.openai.com/) (conta privada e paga) e [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (não precisa de uma conta e é de graça).
 
+## Definir o prompt
+
+Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída. No entanto, sua formulação faz toda a diferença. Se você deseja criar um agente, por exemplo, precisa definir sua função, seu objetivo, o que ele tem que fazer (mesmo o que não pode fazer!) e como, o que pode dizer (e não dizer!) todas as etapas até o final de sua atuação.
+
 ## Sobre o artigo acadêmico (ampliar a capacidade dos professores de implementar estratégias pedagógicas desafiadoras)
 
 (Tradução para o português da página 2 do artigo)
