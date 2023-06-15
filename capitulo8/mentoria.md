@@ -38,4 +38,4 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 <li>(5) Max Weber e a Sociologia compreensiva (RESUMO) - Todo Estudo. https://www.todoestudo.com.br/sociologia/max-weber.</li>
 </ul>
 
-A partir de agora, o caminho é seu 😊
+Agora, é a sua vez 😊
