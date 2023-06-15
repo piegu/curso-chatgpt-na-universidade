@@ -1,4 +1,4 @@
-# ChatGPT para Professor >> Avaliador do aprendizado dos estudantes
+# ChatGPT para o Professor >> Avaliador do aprendizado dos estudantes
 
 [Gerador de exemplos](estrategia1.md) | [Gerador de explicações de conceito](estrategia2.md) | [Criador de questionários](estrategia3.md) | Avaliador do aprendizado
 
