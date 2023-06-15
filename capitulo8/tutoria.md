@@ -7,11 +7,19 @@ Tutor IA | [Mentor IA](mentoria.md)
 - O prompt utilizado nesta página é uma versão modificada e traduzida para o português do prompt apresentado no parágrafo "AI as Mentor" do artigo acadêmico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995).
 - O tool utilizado foi o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/).
 
-## Definir o prompt
-
-Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída. No entanto, sua formulação faz toda a diferença. Se você deseja criar um agente, por exemplo, precisa definir sua função, seu objetivo, o que ele tem que fazer (mesmo o que não pode fazer!) e como, o que pode dizer (e não dizer!) todas as etapas até o final de sua atuação.
-
 ## Interagir com o Tutor IA
+
+(Tradução para o português da página 11 do artigo)
+
+Um uso potencial para modelos de linguagem de IA para ajudar os estudantes a aprender é atuar como **um tutor de IA, fornecendo instrução direta e orientação educacional**. Enquanto modelos experimentais estão disponíveis nas formas iniciais (veja o Khanmigo da Kahn Academy), um tutor de IA também pode ser invocado com uma simples solicitação. No caso da tutoria, confabulações e respostas incorretas são uma preocupação particular, conforme discutido abaixo, tornando a tutoria de IA um tópico que promete e arrisca.
+
+**Teoria**: foi demonstrado que a tutoria, particularmente **a tutoria de alta dosagem, melhora os resultados de aprendizagem** (Kraft et al, 2021). Normalmente, a tutoria envolve **pequenos grupos ou sessões individuais com um tutor com foco na construção de habilidades**. Os estudantes se beneficiam prestando muita atenção a uma habilidade ou tópico, trabalhando ativamente nos problemas e obtendo feedback imediato à medida que progridem (Chi et al., 2001). **A tutoria é inerentemente interativa** e pode envolver uma série de estratégias de aprendizagem, incluindo: questionamento (tanto pelo tutor quanto pelo estudante); explicações e feedback personalizados (o tutor pode corrigir mal-entendidos em tempo real e fornecer conselhos direcionados com base nas necessidades exclusivas do estudante); resolução colaborativa de problemas (os tutores podem resolver problemas em conjunto com os estudantes, e não apenas mostrar-lhes a solução); e ajuste em tempo real (com base nas respostas e no progresso do estudante, um tutor pode ajustar o ritmo, o nível de dificuldade, tornando o processo de aprendizagem dinâmico e responsivo) (Chi & Roy, 2008; Hill, 2001).
+
+Crucialmente, o valor do tutor não é apenas o conhecimento do assunto, mas também **sua capacidade de levar o estudante a se esforçar**, prestar muita atenção ao material, dar sentido a novos conceitos e conectar o que eles sabem com novos conhecimentos. A construção ativa do estudante ou a geração de novos conhecimentos por causa da interação é fundamental para a aprendizagem (Chi et al., 2001). Os tutores eficazes melhoram os resultados da aprendizagem, **estimulando os estudantes a gerar as suas próprias respostas** durante as sessões de tutoria, enfatizando o poderoso papel da construção ativa do conhecimento sobre a recepção passiva da informação (Roscoe & Chi, 2007).
+
+Em uma sessão de tutoria, os estudantes têm mais oportunidades de reafirmar ideias com suas próprias palavras, explicar, pensar em voz alta, responder a perguntas e elaborar respostas do que em uma sala de aula, onde o tempo é limitado e a instrução individual não é possível. Durante as sessões de tutoria, os tutores solicitam explicações (você pode explicar como isso funciona?) ou fazem perguntas importantes (por que você acha que funciona dessa maneira?) ou simplesmente dão aos estudantes a oportunidade de corrigir o curso; são essas atividades que podem ajudar os estudantes a aprender (Fiorella & Mayer, 2015). **Os tutores podem ajustar seu ensino ao nível de aprendizagem dos estudantes** e adaptar dinamicamente as explicações e perguntas com base na compreensão do estudante conforme muda durante a sessão de tutoria. Esse tipo de ensino, no entanto, está disponível para poucos; é caro e demorado.
+
+## Prompt
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
