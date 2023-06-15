@@ -27,4 +27,10 @@ Muitas técnicas de ensino têm valor comprovado, mas são difíceis de colocar 
 - testes de baixo risco (questionários) que ajudam os estudantes a recuperar informações e avaliar seu conhecimento; 
 - e uma avaliação das lacunas de conhecimento que fornece aos professores uma visão aprendizagem do estudante.
 
-**Uma palavra de cautela**: embora os LLMs possam ser extremamente úteis na geração de material para ajudar os estudantes a aprender, a experiência do professor é crítica. O assunto e a experiência em ensino são necessários para avaliar a saída da IA e avaliar se e como cada técnica deve ser colocada em prática em uma sala de aula específica. A IA pode alucinar (inventar fatos) e os professores precisarão avaliar se sua saída é apropriada e valiosa para sua classe. Argumentamos, no entanto, que intencionalmente a implementação de estratégias de ensino com a ajuda de um LLM pode ser um multiplicador de força para os professores e fornecer aos estudantes um material extremamente útil e difícil de gerar (sem um LLM).. 
+## Uma palavra de cautela
+
+Embora os LLMs possam ser extremamente úteis na geração de material para ajudar os estudantes a aprender, **a experiência do professor é crítica**. O assunto e a experiência em ensino são necessários para avaliar a saída da IA e avaliar se e como cada técnica deve ser colocada em prática em uma sala de aula específica.
+
+**A IA pode alucinar (inventar fatos) e os professores precisarão avaliar se sua saída é apropriada e valiosa para sua classe.**
+
+Argumentamos, no entanto, que intencionalmente a implementação de estratégias de ensino com a ajuda de um LLM pode ser um multiplicador de força para os professores e fornecer aos estudantes um material extremamente útil e difícil de gerar (sem um LLM).
