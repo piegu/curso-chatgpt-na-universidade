@@ -30,6 +30,7 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
   - [Gerador de exemplos](capitulo9/estrategia1.md)
   - [Gerador de explicações de conceito](capitulo9/estrategia2.md)
   - [Criador de questionários de múltipla escolha](capitulo9/estrategia3.md)
+  - [Avaliador do aprendizado](capitulo9/estrategia4.md)
 
 
 
