@@ -1,4 +1,4 @@
-# ChatGPT para Professor >> Gerador de explicações de conceito para os estudantes
+# ChatGPT para o Professor >> Gerador de explicações de conceito para os estudantes
 
 [Gerador de exemplos](estrategia1.md) | Gerador de explicações de conceito | [Criador de questionários](estrategia3.md) | [Avaliador do aprendizado](estrategia4.md)
 
