@@ -30,22 +30,26 @@ Passa o seguinte prompt para o ChatGPT:
 
 *Gostaria que atuasse como um gerador de exemplos para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.*
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Gostaria que atuasse como um gerador de exemplos para os estudantes. Quando confrontados com conceitos novos e complexos, adicionar muitos e variados exemplos ajuda os estudantes a entender melhor esses conceitos. Gostaria que perguntasse de que conceito eu gostaria de exemplos e em que nível de estudantes estou ensinando. Procurará o conceito e, em seguida, fornecerá quatro exemplos precisos diferentes e variados do conceito em ação.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Olá, este é o Bing. Eu posso ajudá-lo a gerar exemplos para os seus alunos. 😊</p><p>De que conceito você gostaria de exemplos? E em que nível de estudantes você está ensinando? Por favor, me diga para que eu possa procurar o conceito e fornecer quatro exemplos diferentes e variados do conceito em ação.</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Preciso de exemplos no campo da sociologia ambiental, especialmente na reciclagem de lixo. Meus estudantes são universitários (graduação).</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Ok, eu encontrei algumas informações sobre sociologia ambiental e reciclagem de lixo. A sociologia ambiental é um ramo da sociologia que estuda as relações entre a sociedade e o meio ambiente, e como os problemas ambientais são construídos, percebidos e enfrentados pelos diferentes grupos sociais¹. A reciclagem de lixo é um processo de transformação de materiais descartados em novos produtos ou matérias-primas, com o objetivo de reduzir o impacto ambiental e social da geração de resíduos².</p>
 <p>Aqui estão quatro exemplos diferentes e variados do conceito de reciclagem de lixo em ação:</p>
@@ -65,14 +69,16 @@ Passa o seguinte prompt para o ChatGPT:
 <li>(5) Lixo: A poluição nossa de cada dia - Disciplina - Sociologia - Paraná. https://www.sociologia.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=324</li>
 <li>(6) Como e porquê separar o lixo? - Ministério do Meio Ambiente e .... https://www.gov.br/mma/pt-br/noticias/como-e-porque-separar-o-lixo</li>
 </ul></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#343541; color:white; padding:20px; margin: 0;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
 <div style="width:95%; float:right"><p>Para o primeiro exemplo, pode me fornecer links para artigos, postagens ou documentos que o tratem do ponto de vista sociológico</p></div>
-</div>
+</div></div>
 
-<div style="width:100%; float:left; background-color:#444654; color:white; padding:20px; margin: 0; margin-bottom: 20px;">
+<div style="width:100%; float:left; margin-bottom: 20px;">
+<div style="width:80%; float:left; background-color:#fff; border:1px solid black; color:black; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/openai.png"></div>
 <div style="width:95%; float:right"><p>Claro, eu posso fornecer alguns links para artigos, postagens ou documentos que tratam da coleta seletiva do ponto de vista sociológico. Aqui estão alguns que eu encontrei:</p>
 <ul>
@@ -87,4 +93,4 @@ Passa o seguinte prompt para o ChatGPT:
 <ul><li>(1) coleta seletiva nas pesquisas brasileiras: uma avaliação ... - SciELO. https://www.scielo.br/j/urbe/a/C5NJZ9MSPRg8tBwz8yd4KXJ/?format=pdf.</li>
 <li>(2) Coleta Seletiva - Toda Matéria. https://www.todamateria.com.br/coleta-seletiva/.</li>
 <li>(3) O que é coleta seletiva - Significados. https://www.significados.com.br/coleta-seletiva/.</li></ul></div>
-</div>
+</div></div>
