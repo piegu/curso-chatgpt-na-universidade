@@ -2,6 +2,12 @@
 
 Gerador de exemplos | [Gerador de explicações de conceito](estrategia2.md) 
 
+- O artigo científico [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243) é a fonte desta página. Foi escrito pelo professor [Ethan Mollick](https://www.linkin.com/in/emollick/), professor da Wharton School da Universidade da Pensilvânia (EUA) no grupo de Empreendedorismo do Departamento de Management, onde ele estuda e ensina inovação e empreendedorismo.
+- O primeiro prompt usado nessa página é uma versão modificada e traduzida para o português do prompt apresentado nesse artigo.
+- A ferramenta utilizada é o [ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) do "novo Bing" no navegador [Microsoft Edge](https://www.microsoft.com/pt-br/edge/) (sem necessidade de conta e gratuito).
+
+## Sobre
+
 Os estudantes precisam de muitos exemplos ao aprender conceitos complicados (Kirschner & Heal, 2022). Quando confrontados com ideias novas e complexas, adicionar muitos e variados exemplos ajuda os estudantes a entendê-los melhor. Se os estudantes receberem apenas um exemplo, eles podem se concentrar nos detalhes superficiais desse exemplo e não chegar ao conceito mais profundo. Vários exemplos de um único conceito podem ajudar os estudantes a descontextualizar a ideia do exemplo, levando a uma melhor recordação e compreensão.
 
 Criar exemplos para fins instrucionais pode ser uma tarefa demorada e desafiadora para os educadores, especialmente quando eles visam produzir diversos exemplos que ilustrem efetivamente vários aspectos de um conceito. Os educadores geralmente têm agendas lotadas e inúmeras responsabilidades, o que aumenta a complexidade de gerar
