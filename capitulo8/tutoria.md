@@ -1,4 +1,4 @@
-# ChatGPT para Estudante >> Tutor IA
+# ChatGPT para o Estudante >> Tutor IA
 
 Tutor IA | [Mentor IA](mentoria.md)
 
