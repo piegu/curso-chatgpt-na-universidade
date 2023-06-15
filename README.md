@@ -1,4 +1,4 @@
-# Debate | ChatGPT, um assistente pessoal. Usos na sociologia e reflexões sobre seus impactos no mundo universitário.
+# Palestra | ChatGPT, um assistente pessoal. Usos na sociologia e reflexões sobre seus impactos no mundo universitário.
 
 <img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)">
 
@@ -31,8 +31,3 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
   - [Gerador de explicações de conceito](capitulo9/estrategia2.md)
   - [Criador de questionários](capitulo9/estrategia3.md)
   - [Avaliador do aprendizado](capitulo9/estrategia4.md)
-
-
-
-## Licensa
-
