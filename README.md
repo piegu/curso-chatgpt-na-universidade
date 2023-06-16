@@ -48,5 +48,5 @@
 
 ### E a ética?
 
-- [ética IA pelo Forbes](capitulo12/etica.md)
+- [ética IA](capitulo12/etica.md)
 - [As principais ferramentas para detectar ChatGPT](capitulo12/detectar.md)
