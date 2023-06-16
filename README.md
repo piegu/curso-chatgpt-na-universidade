@@ -4,7 +4,9 @@
 
 ## Palestrante
 
-[Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), consutor em IA.
+- [Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), consutor em IA
+- [Departamento de Sociologia (SOL/ICS)](sol.unb.br) da UnB (Universidade de Brasília)
+- 16 de junho de 2023
 
 ## Capítulos  
 
