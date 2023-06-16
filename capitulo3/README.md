@@ -20,9 +20,9 @@ Por exemplo: modelo [DeepFloyd IF](https://github.com/deep-floyd/IF#if-by-deepfl
 
 No [Space desse modelo](https://huggingface.co/spaces/DeepFloyd/IF), digitei o prompt seguinte:
 
-*50mm lens, photo realism, cine lens. A photo of a cat using an Apple MacBook Pro with yellow text written on it: “ChatGPT Prompt”. The cat is sitting on the grass in a park with pretty flowers.*
+*a green rabbit reading a book in a chair*
     
-<img src="../imagens/ChatGPT_curso_prompting.png" alt="">
+<img src="../imagens/greenrabbit.png" alt="">
 
 ## Texto para Video (Text2Video)
 
