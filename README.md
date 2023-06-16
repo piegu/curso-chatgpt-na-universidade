@@ -4,7 +4,7 @@
 
 ## Palestrante
 
-- [Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), consutor em IA
+- [Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), Consutor em IA & Senior AI Specialist (Claimfy)
 - [Departamento de Sociologia (SOL/ICS)](http://sol.unb.br/index.php/en/) da UnB (Universidade de Brasília)
 - 16 de junho de 2023
 
