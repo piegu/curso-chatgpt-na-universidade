@@ -18,6 +18,14 @@
 - [O prompt](capitulo5/)
 - [Controlar ChatGPT](capitulo6/)
 - [Plugins ChatGPT](capitulo7/)
+  - [ScholarAI](capitulo7/scholarai.md)
+  - [Penrose Analyst](capitulo7/penrose.md)
+  - [Show Me](capitulo7/showme.md)
+  - [AskYourPDF](capitulo7/askyourpdf.md)
+  - [ChatOCR](capitulo7/chatocr.md)
+  - [WebPilot](capitulo7/webpilot.md)
+  - [World News](capitulo7/worldnews.md)
+  - [VoxScript](capitulo7/voxscript.md)
 
 ### ChatGPT como Agente(s)
 
