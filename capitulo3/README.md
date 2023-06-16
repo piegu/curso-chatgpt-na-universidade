@@ -28,4 +28,4 @@ No [Space desse modelo](https://huggingface.co/spaces/DeepFloyd/IF), digitei o p
 
 - [Zero-Shot Text-to-Video Generation](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video_zero)
 
-<img src="../imagens/Text2Video" alt="">
+<img src="../imagens/teaser_final.png" alt="">
