@@ -1,6 +1,12 @@
-# ética IA pelo Forbes
+# ética IA
 
-Translaçao do artigo "[AI Ethicist Views On ChatGPT](https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/?sh=5078e279eb70)" do 30/04/2023.
+## A ética dos estudantes universitários que usam o ChatGPT
+
+[The Ethics of College Students Using ChatGPT](https://ethicspolicy.unc.edu/news/2023/04/17/the-ethics-of-college-students-using-chatgpt/) (17 de abril de 2023)
+
+## Forbes
+
+Translação do artigo "[AI Ethicist Views On ChatGPT](https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/?sh=5078e279eb70)" do 30/04/2023.
 
 ## Onde estaremos em cinco anos como resultado da IA generativa inteligente?
 
