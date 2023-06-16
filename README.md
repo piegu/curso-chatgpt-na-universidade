@@ -7,11 +7,7 @@
 ## Resumo 
 
 - [ChatGPT, o novo rosto da IA](capitulo1/)
-- [IA](capitulo2/)
-Apresentaçao da IA por um grafico (o que é, a evoluçao no tempo)
-- [IA Generativa](capitulo3/)
-Focus na IA Gen.
-Examplos de IA Generativa além do texto
+- [A família "IA Generativa"](capitulo3/)
 - [ChatGPT](capitulo4/)
 O que é ChatGPT
 - [Os ChatGPT OpenSource](capitulo5/)
