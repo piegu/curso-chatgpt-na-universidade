@@ -1,6 +1,6 @@
 # Palestra | ChatGPT, um assistente pessoal. Usos na sociologia e reflexões sobre seus impactos no mundo universitário.
 
-<img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)">
+<img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credito: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credito: Ethan Mollick)">
 
 ## Palestrante
 
