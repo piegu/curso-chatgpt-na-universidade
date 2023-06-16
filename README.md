@@ -10,12 +10,15 @@
 
 ## Capítulos  
 
+### IA em 2023
 - [ChatGPT, o novo rosto da IA](capitulo1/)
 - [A família "IA Generativa"](capitulo3/)
+
+## ChatGPT como facilitador de acesso à informação
 - [Controlar ChatGPT](capitulo6/)
 - [Plugins ChatGPT](capitulo7/)
 
-## ChatGPT como Agente(s)
+### ChatGPT como Agente(s)
 
 - [Para o Estudante](capitulo8/)
   - [Tutor IA](capitulo8/tutoria.md)
@@ -26,10 +29,14 @@
   - [Criador de questionários](capitulo9/estrategia3.md)
   - [Avaliador do aprendizado](capitulo9/estrategia4.md)
 
-## ChatGPT pode raciocinar?
+### ChatGPT pode raciocinar?
 
 - [Alguns prompts](capitulo10/)
   
-## Para brincar (e aprender)
+### Para brincar (e aprender)
 
 - [Outros prompts](capitulo11/)
+
+### E a ética?
+
+- [ética IA pelo Forbes](capitulo12/)
