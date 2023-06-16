@@ -24,12 +24,12 @@
 <div style="width:95%; float:right"><p>Em um tom amigável e acessível, explique os fundamentos do {conceito sociológico} e como ele se aplica à {situação da vida real}.</p></div>
 </div></div>
 
-### Analisar e comparar duas obras de arte ou artistas diferentes ou conceitos diferentes.
+### Analisar e comparar dois conceitos diferentes.
 
 <div style="width:100%; float:left; margin-bottom: 20px;">
 <div style="width:80%; float:right; background-color:#904887; color:white; padding:20px; margin: 0;">
 <div style="width:5%; float:left; padding-right:20px;"><img src="../imagens/PI.png"></div>
-<div style="width:95%; float:right"><p>Faça uma comparação entre {obra de arte ou artista 1 ou conceito 1} e {obra de arte ou artista 2 ou conceito 2} em termos de {estilo, técnica, contexto cultural, etc.}.</p></div>
+<div style="width:95%; float:right"><p>Faça uma comparação entre {conceito 1} e {conceito 2} em termos de {estilo, técnica, contexto cultural, sociologia, etc.}.</p></div>
 </div></div>
 
 ### Aprofunde a compreensão de uma obra literária focando em seus temas.
