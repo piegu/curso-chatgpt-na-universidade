@@ -1,5 +1,7 @@
 # ChatGPT, o novo rosto da IA
 
+<img src="../imagens/chatgpt-1.jpeg" alt="ChatGPT">
+
 ## Pais
 
 [OpenAI](https://openai.com) (pais originais) e Microsoft (família adotiva) que forneceu o poder de computaçao. 
