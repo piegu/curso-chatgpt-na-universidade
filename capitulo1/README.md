@@ -10,7 +10,9 @@ Fonte: [OpenAI](https://openai.com/blog/chatgpt)
 
 **Chat with Generative Pre-trained Transformer** - Transformer é a arquitetura de todos os modelos IA de PLN (Processamento de Linguagem Natural) desde 2017 (Google - artigo: "[Attention is all you need](https://arxiv.org/abs/1706.03762)" - post explicativo: "[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)"). 
 
-## Peso: 
+## Peso: 175 bilhões de parâmetros
+
+<img src="../imagens/List-of-LLMs-chart-Title.jpg" alt="" title="">
 
 ## Origem: GPT-3 & IA Generativa
 
