@@ -9,6 +9,12 @@
 **Chat with Generative Pre-trained Transformer** - Transformer é a arquitetura de todos os modelos IA de PLN (Processamento de Linguagem Natural) desde 2017 (Google - artigo: "[Attention is all you need](https://arxiv.org/abs/1706.03762)" - post explicativo: "[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)"). 
 
 **Nota**: Transformer é uma estrutura de 2 partes: **codificador - decodificador**. O ChatGPT usa a segunda parte, que permite gerar a próxima palavra a partir das palavras anteriores (IA Generativa).
+
+## Origem: GPT-3 & IA Generativa
+
+<img src="../imagens/05-gpt3-generate-output-context-window.gif" alt="" title="">
+
+
 ## ChatBing
 
 
