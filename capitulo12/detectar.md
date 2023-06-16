@@ -48,8 +48,8 @@ O [AI Detector do Corrector.app](https://corrector.app/ai-content-detector/) é 
 
 <img src="../imagens/aidetector.png" alt="">
 
-## writeFull
+## writefull
 
-[Writefull](https://x.writefull.com/gpt-detector) é usado para determinar a presença de GPT-3, GPT-4 ou ChatGPT em um texto. Este site concluiu que havia apenas 30% de chance de que o parágrafo de amostra viesse de uma dessas plataformas de IA.
+[writefull](https://x.writefull.com/gpt-detector) é usado para determinar a presença de GPT-3, GPT-4 ou ChatGPT em um texto. Este site concluiu que havia apenas 30% de chance de que o parágrafo de amostra viesse de uma dessas plataformas de IA.
 
 <img src="../imagens/writefull.png" alt=""> 
