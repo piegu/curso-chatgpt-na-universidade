@@ -40,7 +40,7 @@ ChatGPT: chat (interagir) + GPT (Generative Pre-trained Transformer)
 
 ## GPT tornou-se ChatGPT
 
-Com mais dados e mais treinamento com novos métodos (principalmente RLHF: [Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf)), **o GPT-3 tornou-se ChatGPT**, sendo um modelo de IA capaz de seguir instruções (prompts) e interagir.
+Com mais dados (toda Internet e muito mais até setembro de 2021) e mais treinamento com novos métodos (principalmente RLHF: [Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf)), **o GPT-3 tornou-se ChatGPT**, sendo um modelo de IA capaz de seguir instruções (prompts) e interagir.
 
 ## [ BREAK - ChatGPT me ajude! ]
 
