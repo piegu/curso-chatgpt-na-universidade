@@ -1,4 +1,4 @@
-# As 10 principais ferramentas para detectar ChatGPT, GPT-4, Bard e Claude
+# As principais ferramentas para detectar ChatGPT, GPT-4, Bard e Claude
 
 Fonte: artigo "[Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude](https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html)" (29/05/2023)
 
