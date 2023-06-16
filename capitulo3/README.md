@@ -29,3 +29,9 @@ No [Space desse modelo](https://huggingface.co/spaces/DeepFloyd/IF), digitei o p
 - [Zero-Shot Text-to-Video Generation](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video_zero)
 
 <img src="../imagens/teaser_final.png" alt="">
+
+## Texto para áudio (Text2Audio)
+
+- [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): um modelo simples e controlável para geração de música apresentado em: "[Simple and Controllable Music Generation](https://huggingface.co/papers/2306.05284)"
+
+<img src="../imagens/musicgen.png" alt="">
