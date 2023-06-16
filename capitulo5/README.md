@@ -9,8 +9,8 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 ## Princípios
 
 2 princípios: 
-- Escreva instruções claras
-- específicas / Ajude o modelo a pensar.
+- Escreva instruções claras e específicas
+- Ajude o modelo a pensar
 
 ## Táticas
 - Táticas do princípio 1: Uso de Delimitadores, Solicitar saída estruturada, Verificação de condição, Convide para se inspirar em alguns exemplos.
