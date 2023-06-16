@@ -1,6 +1,6 @@
 # O prompt
 
-Curso sobre o prompt: [IA Generativa | Como controlar o ChatGPT para escrever um texto que atenda às suas expectativas (curso de DeepLearning.AI e OpenAI)](https://medium.com/@pierre_guillou/ia-generativa-como-controlar-o-chatgpt-para-escrever-um-texto-que-atenda-%C3%A0s-suas-expectativas-e1b7abe59012)
+Curso sobre o prompt: [Como controlar o ChatGPT para escrever um texto que atenda às suas expectativas (curso de DeepLearning.AI e OpenAI)](https://medium.com/@pierre_guillou/ia-generativa-como-controlar-o-chatgpt-para-escrever-um-texto-que-atenda-%C3%A0s-suas-expectativas-e1b7abe59012)
 
 ## Definição
 
