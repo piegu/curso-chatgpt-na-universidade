@@ -20,7 +20,7 @@ O classificador [AI Text Classifier](https://platform.openai.com/ai-text-classif
 
 ## CopyLeaks
 
-Fui apresentado ao CopyLeaks por um usuário do Reddit no subreddit r/freelanceWriters. É um verificador de plágio rápido e preciso que vem com uma extensão simples do Chrome. Você pode até passar o mouse sobre o texto realçado para verificar a popularidade da IA. Ele pode detectar Bard, ChatGPT, GPT-4 e outros modelos de linguagem grande (LLMs).
+Fui apresentado ao [CopyLeaks](https://copyleaks.com/ai-content-detector) por um usuário do Reddit no subreddit r/freelanceWriters. É um verificador de plágio rápido e preciso que vem com uma extensão simples do Chrome. Você pode até passar o mouse sobre o texto realçado para verificar a popularidade da IA. Ele pode detectar Bard, ChatGPT, GPT-4 e outros modelos de linguagem grande (LLMs).
 
 <img src="../imagens/aicopyleaks.png" alt="">
 
