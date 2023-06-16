@@ -29,7 +29,7 @@ ChatGPT: chat (interagir) + GPT (Generative Pre-trained Transformer)
 
 **Nota**: *IA Generativa? Criação de textos, visuais, sons, etc. por um modelo IA.*
 
-<img src="../imagens/05-gpt3-generate-output-context-window.gif" alt="" title="">
+<img src="../imagens/05-gpt3-generate-output-context-window.gif" alt="How GPT3 Works - Visualizations and Animations (Jay Alammar)" title="How GPT3 Works - Visualizations and Animations (Jay Alammar)">
   
 ## Peso: 175 bilhões de parâmetros (GPT-3)
 
