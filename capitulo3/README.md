@@ -1,4 +1,4 @@
-# A família "Ia Generativa"
+# A família "IA Generativa"
 
 ## Texto para Texto (Text2Text)
 
