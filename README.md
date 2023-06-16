@@ -2,17 +2,14 @@
 
 <img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)">
 
-## Resumo 
+## Palestrante
+
+[Pierre GUILLOU](https://www.linkedin.com/in/pierreguillou/), consutor em IA.
+
+## Capítulos  
 
 - [ChatGPT, o novo rosto da IA](capitulo1/)
 - [A família "IA Generativa"](capitulo3/)
-- [ChatGPT](capitulo4/)
-O que é ChatGPT
-- [Os ChatGPT OpenSource](capitulo5/)
-
-(...)
-Em 6 meses, ChatGPT està jà uma ferramenta de massa
-https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy 
 - [Controlar ChatGPT](capitulo6/)
 - [Plugins ChatGPT](capitulo7/)
 
