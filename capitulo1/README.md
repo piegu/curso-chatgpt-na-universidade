@@ -21,9 +21,11 @@ ChatGPT: chat (interagir) + GPT (Generative Pre-trained Transformer)
 - Transformer é a arquitetura de todos os modelos IA de PLN (Processamento de Linguagem Natural) desde 2017 (Google - artigo: "[Attention is all you need](https://arxiv.org/abs/1706.03762)" - post explicativo: "[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)").
 - Transformer é uma estrutura de 2 partes: **codificador - decodificador**.
 - O GPT usa a segunda parte (decodificador).
-- O GPT é um modelo de linguagem natural (Language Model ou LM), modelo que foi treinado a predir uma palavra a partir des palavras precedentes.
-- O GPT é um modelo generativo, um modelo que permite gerar a próxima palavra a partir das palavras anteriores (**IA Generativa**: modelo que produz textos, visuais, sons, etc.).
+- **O GPT é um modelo de linguagem natural (Language Model ou LM)**, modelo que foi treinado a predir uma palavra a partir des palavras precedentes.
+- **O GPT é um modelo generativo**, um modelo que permite gerar a próxima palavra a partir das palavras anteriores.
 - Tudo isso permite que o modelo "aprenda um idioma".
+
+**Nota**: *IA Generativa? Criação de textos, visuais, sons, etc. por um modelo IA.*
 
 <img src="../imagens/05-gpt3-generate-output-context-window.gif" alt="" title="">
   
