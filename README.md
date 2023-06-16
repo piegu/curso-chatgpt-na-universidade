@@ -33,6 +33,6 @@ https://www-oneusefulthing-org.translate.goog/p/ai-has-a-strategy
   - [Criador de questionários](capitulo9/estrategia3.md)
   - [Avaliador do aprendizado](capitulo9/estrategia4.md)
  
- ## Para brincar (e apprender)
+ ## Para brincar (e aprender)
 
  - [Outros prompts](capitulo10/)
