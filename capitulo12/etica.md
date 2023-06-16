@@ -8,7 +8,9 @@
 
 Translação do artigo "[AI Ethicist Views On ChatGPT](https://www.forbes.com/sites/cindygordon/2023/04/30/ai-ethicist-views-on-chatgpt/?sh=5078e279eb70)" do 30/04/2023.
 
-## Onde estaremos em cinco anos como resultado da IA generativa inteligente?
+Resumo : *"O uso do ChatGPT levanta questões legais e éticas relacionadas a direitos autorais, privacidade, uso indevido, preconceito e transparência. É importante que os usuários estejam cientes desses problemas e tomem medidas para mitigá-los."*
+
+<p><b>Onde estaremos em cinco anos como resultado da IA generativa inteligente?</b></p>
 
 Muitas de nossas inovações tecnológicas vêm da indústria de mídia e entretenimento, onde a IA descarta os grilhões do controle humano e assume vida própria, como os ciborgues alimentados por inteligência artificial fizeram em “O Exterminador do Futuro 2”.
 
@@ -32,11 +34,9 @@ O líder de IA e especialista em aprendizado profundo, Yoshua Bengio, está defe
 
 Então, o que o ChatGPT pensa sobre as preocupações éticas da IA?
 
-- Existem várias questões legais e éticas envolvendo o uso do ChatGPT e outros modelos de linguagem grandes. Uma questão legal está relacionada à possível violação de direitos autorais, pois o modelo pode gerar um texto semelhante ou idêntico ao conteúdo protegido por direitos autorais existente.
-- Outra questão legal está relacionada a possíveis violações de privacidade, pois o modelo pode gerar informações pessoais ou dados sensíveis que podem ser usados para identificar ou prejudicar indivíduos. Eticamente, há preocupação com o potencial uso indevido do modelo, como na criação de áudio ou texto deep fake ou na divulgação de informações falsas ou enganosas.
-- Também há preocupação com viés não intencional nos dados de treinamento, o que pode levar o modelo a perpetuar estereótipos prejudiciais ou discriminação. Outra preocupação ética está relacionada à transparência do processo de tomada de decisão do modelo, pois pode ser difícil para os usuários entender como o modelo chegou a uma determinada saída.
-- Além disso, GPT-3 e outros modelos semelhantes foram treinados em uma grande quantidade de dados, que podem ter vindo de fontes questionáveis, como raspagem de sites ou outros métodos de coleta de dados que podem ter problemas legais e éticos.
+- Existem **várias questões legais e éticas envolvendo o uso do ChatGPT** e outros modelos de linguagem grandes. Uma questão legal está relacionada à **possível violação de direitos autorais**, pois o modelo pode gerar um texto semelhante ou idêntico ao conteúdo protegido por direitos autorais existente.
+- Outra questão legal está relacionada a **possíveis violações de privacidade**, pois o modelo pode gerar informações pessoais ou dados sensíveis que podem ser usados para identificar ou prejudicar indivíduos. Eticamente, há **preocupação com o potencial uso indevido do modelo**, como na criação de áudio ou texto deep fake ou na divulgação de informações falsas ou enganosas.
+- Também há **preocupação com viés não intencional nos dados de treinamento**, o que pode levar o modelo a **perpetuar estereótipos prejudiciais ou discriminação**. Outra preocupação ética está relacionada à **transparência do processo de tomada de decisão do modelo**, pois pode ser difícil para os usuários entender como o modelo chegou a uma determinada saída.
+- Além disso, GPT-3 e outros modelos semelhantes foram **treinados em uma grande quantidade de dados, que podem ter vindo de fontes questionáveis**, como raspagem de sites ou outros métodos de coleta de dados que podem ter problemas legais e éticos.
 
 Em resumo, o uso do ChatGPT levanta questões legais e éticas relacionadas a direitos autorais, privacidade, uso indevido, preconceito e transparência. É importante que os usuários estejam cientes desses problemas e tomem medidas para mitigá-los.
-
-Fiquei impressionado com a resposta que o ChatGPT forneceu e, à medida que esse setor amadurece, devemos responder a mais questões éticas desafiadoras sobre IA. Acho que muito disso está enraizado na definição do que é ser humano e o que queremos como humanos, em vez de ter líderes de tecnologia continuamente moldando nosso futuro. Filmes como The Terminator não são impossíveis de imaginar, pois filmes como The Minority Report são assustadoramente mais precisos devido aos avanços tecnológicos de empresas como SenseTime, que podem monitorar caminhadas, tráfego, compras e dados sociais em um perfil de classificação social. Embora banido nos EUA, as implicações éticas de nunca poder ser desconhecido ou ter meus dados privados hierarquizam socialmente meus hábitos tem conotações orwellianas.
