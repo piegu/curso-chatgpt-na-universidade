@@ -23,3 +23,9 @@ No [Space desse modelo](https://huggingface.co/spaces/DeepFloyd/IF), digitei o p
 *50mm lens, photo realism, cine lens. A photo of a cat using an Apple MacBook Pro with yellow text written on it: “ChatGPT Prompt”. The cat is sitting on the grass in a park with pretty flowers.*
     
 <img src="../imagens/ChatGPT_curso_prompting.png" alt="">
+
+## Texto para Video (Text2Video)
+
+- [Zero-Shot Text-to-Video Generation](https://huggingface.co/docs/diffusers/api/pipelines/text_to_video_zero)
+
+<img src="../imagens/Text2Video" alt="">
