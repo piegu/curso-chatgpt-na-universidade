@@ -14,7 +14,7 @@ Fonte: artigo "[Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude](htt
 
 ## AI Text Classifier (Open AI)
 
-O classificador [AI Text Classifier](https://platform.openai.com/ai-text-classifier) é um modelo GPT ajustado que prevê a probabilidade de um texto ter sido gerado por AI a partir de várias fontes, como o ChatGPT.
+O classificador [AI Text Classifier](https://platform.openai.com/ai-text-classifier) é um modelo GPT ajustado que prevê a probabilidade de um texto ter sido gerado por AI a partir de várias fontes, como o ChatGPT. Precisa de uma conta no site da OpenAI.
 
 <img src="../imagens/aitextclassifier.png" alt="">
 
