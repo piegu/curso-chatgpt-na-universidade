@@ -4,7 +4,7 @@
 
 ## Pais
 
-[OpenAI](https://openai.com) (pais originais) e Microsoft (família adotiva) que forneceu o poder de computaçao. 
+[OpenAI](https://openai.com) (pais originais) e Microsoft (família adotiva) que forneceu o poder de computação. 
 
 ## Sonho dos pais
 
