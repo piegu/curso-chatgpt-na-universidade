@@ -62,22 +62,6 @@ Com mais dados e mais treinamento com novos métodos (principalmente RLHF: [Rein
 
 ### Na casa da familia adotiva
 
-[chatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&setlang=pt-br)
+[ChatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&setlang=pt-br)
 
 <img src="../imagens/chatgpt_bing.png">
-
-
-da IA até os assistentes IA
-
-Text2Image
-Text2Audio
-Text2Video
-Text2Text
-Text2Code
-
-Assistente
-agente
-
-google search
-
-etc.
