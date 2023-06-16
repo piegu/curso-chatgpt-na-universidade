@@ -54,13 +54,13 @@ Com mais dados e mais treinamento com novos métodos (principalmente RLHF: [Rein
 
 ## Endereço(s) do ChatGPT
 
-### Na casa dos pais
+### Na casa dos pais originais
 
 [ChatGPT na OpenAI](https://chat.openai.com/)
 
 <img src="../imagens/chatgpt_openai.png">
 
-### Na casa da familia adoptiva
+### Na casa da familia adotiva
 
 [chatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&setlang=pt-br)
 
