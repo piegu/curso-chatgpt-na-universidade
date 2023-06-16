@@ -15,6 +15,7 @@
 - [A família "IA Generativa"](capitulo3/)
 
 ### ChatGPT como facilitador de acesso à informação
+- [O prompt](capitulo5/)
 - [Controlar ChatGPT](capitulo6/)
 - [Plugins ChatGPT](capitulo7/)
 
