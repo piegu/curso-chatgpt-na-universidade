@@ -14,7 +14,7 @@
 - [ChatGPT, o novo rosto da IA](capitulo1/)
 - [A família "IA Generativa"](capitulo3/)
 
-## ChatGPT como facilitador de acesso à informação
+### ChatGPT como facilitador de acesso à informação
 - [Controlar ChatGPT](capitulo6/)
 - [Plugins ChatGPT](capitulo7/)
 
