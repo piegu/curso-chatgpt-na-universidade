@@ -20,6 +20,6 @@ Um prompt é simplesmente um texto fornecido ao ChatGPT para produzir uma saída
 - Limites do modelo: “Alucinações”.
 
 ## Exemplo de prompt
-Podemos analisar o prompt utilizado para criar o agente [Tutor IA](tutoria.md):
+Podemos analisar o prompt utilizado para criar o agente [Tutor IA](../capitulo8/tutoria.md):
 
 <img src="../imagens/aitutor_prompt.png" alt="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" title="Imagem do prompt para criar um Tutor IA (credit: Ethan Mollick)" width='70%' height='70%'>
