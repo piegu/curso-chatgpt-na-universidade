@@ -3,8 +3,8 @@
 Fonte: artigo "[Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude](https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html)" (29/05/2023)
 
 **Notas**: 
-- muitos dos textos de apresentaçao foram traduzidos a partor dos do artigo fonte.
-- nenhuma das ferramentas desta página funciona com 100% de precisão!
+- Muitos dos textos desta página foram traduzidos daqueles no artigo de origem.
+- Nenhuma das ferramentas desta página funciona com 100% de precisão!
 
 ## GPTZero
 
