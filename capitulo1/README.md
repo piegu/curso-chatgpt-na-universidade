@@ -36,7 +36,7 @@ ChatGPT: chat (interagir) + GPT (Generative Pre-trained Transformer)
 - O ChatGPT original é baseado na versão 3 do modelo GPT.
 - O GPT-3 tem 175 bilhões de parâmetros: é um LLM (Large Language Model).
 
-<img src="../imagens/LLM_size.png" alt="size evolution of LLM (imagem de https://www.marvell.com/blogs/)">
+<img src="../imagens/LLM_size.png" alt="size evolution of LLM (imagem de https://www.marvell.com/blogs/)" title="size evolution of LLM (imagem de https://www.marvell.com/blogs/)">
 
 ## GPT tornou-se ChatGPT
 
