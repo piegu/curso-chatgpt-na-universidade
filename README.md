@@ -2,8 +2,6 @@
 
 <img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credit: Ethan Mollick)">
 
-(...)
-
 ## Resumo 
 
 - [ChatGPT, o novo rosto da IA](capitulo1/)
