@@ -40,7 +40,7 @@ O [SciSpace Academic AI Detector](https://typeset.io/ai-detector) é um pouco di
 
 O [ChatGPT Detector da Hello Simple AI](https://hello-simpleai-chatgpt-detector-ling.hf.space/) é uma ferramenta gratuita e de código aberto que pode ser usada para detectar texto gerado pelo ChatGPT. Ele está hospedado no Hugging Face Spaces e fornece resultados rápidos e bastante precisos. O detector não é tão preciso quanto o classificador OpenAI, mas fornece duas métricas (probabilidade GLTR e PPL) que podem ajudar a determinar se o conteúdo é gerado por IA ou não.
 
-<img src="../imagens/hfdedector.png" alt="">
+<img src="../imagens/hfdetector.png" alt="">
 
 ## Corrector.app
 
