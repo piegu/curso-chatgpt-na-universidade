@@ -56,7 +56,15 @@ Com mais dados e mais treinamento com novos métodos (principalmente RLHF: [Rein
 
 ### Na casa dos pais
 
+[ChatGPT na OpenAI](https://chat.openai.com/)
+
+<img src="../imagens/chatgpt_openai.png">
+
 ### Na casa da familia adoptiva
+
+[chatBing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&setlang=pt-br)
+
+<img src="../imagens/chatgpt_bing.png">
 
 
 da IA até os assistentes IA
