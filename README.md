@@ -1,6 +1,8 @@
 # Palestra | ChatGPT, um assistente pessoal. Usos na sociologia e reflexões sobre seus impactos no mundo universitário.
 
-<img src="imagens/aluno_IA.jpg" alt="Imagem criada por ferramentas Text-2-Image (credito: Ethan Mollick)" title="Imagem criada por ferramentas Text-2-Image (credito: Ethan Mollick)">
+<img src="imagens/AITutor_PierreBourdieu.png" alt="Pierre Bourdieu como Tutor IA (Imagem criada pela ferramenta Text-2-Image DALL-E)" title="Pierre Bourdieu como Tutor IA (Imagem criada pela ferramenta Text-2-Image DALL-E)">
+
+Legenda da imagem: **Pierre Bourdieu como Tutor IA** (Imagem criada pela ferramenta Text-2-Image [DALL-E](https://labs.openai.com/) pelo Pierre Guillou no dia 16/06/2023 com o prompt "Pierre Bourdieu as a student's AI tutor in the room of the student. The tutor appears as an avatar in the air above the desk where the student is sitting. Eighties style design.", e depois, o uso da ferramenta DALL-E Outpainting)
 
 ## Palestrante
 
